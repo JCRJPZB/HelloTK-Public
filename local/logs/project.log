@@ -1,0 +1,100 @@
+2022-03-11 20:32:45-log: [Package] menu@1.0.0 enable
+2022-03-11 20:32:45-log: [Package] profile@1.0.0 enable
+2022-03-11 20:32:45-log: [Package] project@1.0.1 enable
+2022-03-11 20:32:45-log: [Package] messages@1.0.0 enable
+2022-03-11 20:32:45-log: [Package] program@1.0.0 enable
+2022-03-11 20:32:45-log: [Package] device@1.0.1 enable
+2022-03-11 20:32:45-log: [Package] ui-kit@1.0.1 enable
+2022-03-11 20:32:45-log: [Package] tester@1.0.0 enable
+2022-03-11 20:32:45-log: [Package] preferences@1.0.0 enable
+2022-03-11 20:32:45-log: Setup mods mgr.: 274.352ms
+2022-03-11 20:32:45-log: [Package] engine@1.0.5 enable
+2022-03-11 20:32:50-log: [Package] programming@1.0.0 enable
+2022-03-11 20:32:50-log: [Package] engine-extends@1.0.0 enable
+2022-03-11 20:32:50-log: [Package] asset-db@1.0.0 enable
+2022-03-11 20:32:50-log: [Package] console@1.0.0 enable
+2022-03-11 20:32:50-log: [Package] scene@1.0.0 enable
+2022-03-11 20:32:50-log: [Package] about@1.0.0 enable
+2022-03-11 20:32:51-log: [Package] server@1.0.0 enable
+2022-03-11 20:32:51-log: [Package] utils@1.0.0 enable
+2022-03-11 20:32:51-log: [Package] assets@1.0.0 enable
+2022-03-11 20:32:51-log: [Package] inspector@1.0.0 enable
+2022-03-11 20:32:51-log: [Package] hierarchy@1.0.0 enable
+2022-03-11 20:32:53-log: [Package] preview@1.0.1 enable
+2022-03-11 20:32:53-log: [Package] animator@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] builder@1.3.0 enable
+2022-03-11 20:32:54-log: [Package] node-library@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] shortcuts@1.0.1 enable
+2022-03-11 20:32:54-log: [Package] package-asset@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] reference-image@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] animation-graph@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] channel-upload-tools@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] lightmap@1.0.4 enable
+2022-03-11 20:32:54-log: [Package] alipay-mini-game@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] android@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] baidu-mini-game@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-03-11 20:32:54-log: [Package] huawei-agc@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] ios@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] ios-app-clip@1.0.0 enable
+2022-03-11 20:32:54-log: [Package] mac@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] native@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] ohos@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] web-desktop@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] web-mobile@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] wechatgame@1.0.1 enable
+2022-03-11 20:32:55-log: [Package] windows@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] cocos-play@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] huawei-quick-game@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] link-sure@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] oppo-mini-game@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] qtt@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] vivo-mini-game@1.0.0 enable
+2022-03-11 20:32:55-log: [Package] cocos-service@3.0.2 enable
+2022-03-11 20:32:55-log: [Package] importer@1.0.0 enable
+2022-03-11 20:32:56-log: [Package] extension@3.0.13 enable
+2022-03-11 20:32:59-log: [Im-plugin] Check im-plugin version.
+2022-03-11 20:32:59-log: [Package] im-plugin@3.0.8 enable
+2022-03-11 20:33:00-log: [Im-plugin] No online info of im-plugin.
+2022-03-11 20:33:08-log: [Scene] begin init
+2022-03-11 20:33:08-log: [Scene] require engine end
+2022-03-11 20:33:08-log: [Scene] Serialize end
+2022-03-11 20:33:08-log: [Scene] configureStartup end
+2022-03-11 20:33:08-log: [Scene] Cocos Creator v3.4.0
+2022-03-11 20:33:10-info: [Scene] Forward render pipeline initialized.
+2022-03-11 20:33:10-log: [Scene] openEngine end
+2022-03-11 20:33:10-log: [Scene] configureEngine end
+2022-03-11 20:34:22-error: [Preview]unhandledrejection: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/MainScene/TaskList/Task.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-03-11 20:34:22-error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/MainScene/TaskList/Task.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-03-11 20:34:22-error: [Preview]unhandledrejection: Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/MainScene/TaskList/TaskList.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-03-11 20:34:22-error: [Preview]Error: Unable to resolve bare specifier '__unresolved_3' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/MainScene/TaskList/TaskList.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-03-11 20:34:22-error: [Preview]unhandledrejection: Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/StageScene/StageMgr.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-03-11 20:34:22-error: [Preview]Error: Unable to resolve bare specifier '__unresolved_2' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/StageScene/StageMgr.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-03-11 20:34:22-error: [Preview]Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/MainScene/TaskList/Task.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-03-11 20:34:22-error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/mods/fs/0/assets/Script/UI/MainScene/TaskList/Task.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43

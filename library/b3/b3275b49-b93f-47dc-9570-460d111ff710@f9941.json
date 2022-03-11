@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "parchment",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 749,
+      "height": 498
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 749,
+      "height": 498
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b3275b49-b93f-47dc-9570-460d111ff710@6c48a",
+    "packable": true
+  }
+}

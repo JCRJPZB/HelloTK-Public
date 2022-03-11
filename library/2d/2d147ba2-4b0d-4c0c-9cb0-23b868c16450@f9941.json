@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GiftBox",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 167,
+      "height": 119
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 167,
+      "height": 119
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2d147ba2-4b0d-4c0c-9cb0-23b868c16450@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1695,
+      "max": [
+        1.373978853225708,
+        0.6858130097389221,
+        3.8180227279663086
+      ],
+      "min": [
+        -1.7301642894744873,
+        -0.7944074869155884,
+        -0.23632101714611053
+      ],
+      "name": "default007/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1695,
+      "name": "default007/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1695,
+      "name": "default007/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 6504,
+      "name": "default007/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 54240,
+      "byteStride": 32,
+      "name": "default007",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26016,
+      "byteOffset": 54240
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 80256,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "E:\\GitHub\\HelloTK\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\5b6bbbd8-411a-4c3d-9462-f92c2f491bb2\\output\\.fbm\\3E7145A\\wraith.fbm/8.png",
+          "relativeFileName": "..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\5b6bbbd8-411a-4c3d-9462-f92c2f491bb2\\output\\.fbm\\3E7145A\\wraith.fbm\\8.png"
+        }
+      },
+      "name": "Map #13",
+      "uri": "8.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material #47",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.7071067690849304
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "default007",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "default007",
+      "rotation": [
+        -0.7071067690849304,
+        -0.0,
+        0.0,
+        0.7071067690849304
+      ],
+      "scale": [
+        1.0624730587005615,
+        1.0624730587005615,
+        1.0624730587005615
+      ],
+      "translation": [
+        12.677202224731445,
+        0.19911624491214752,
+        0.10953965783119202
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "Map #13",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

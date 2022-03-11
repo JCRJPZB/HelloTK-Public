@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bf694478-6657-4131-8584-f57f721c4495",
+  "files": [],
+  "subMetas": {
+    "c7c22": {
+      "importer": "gltf-mesh",
+      "uuid": "bf694478-6657-4131-8584-f57f721c4495@c7c22",
+      "displayName": "",
+      "id": "c7c22",
+      "name": "default022.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e9ce": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bf694478-6657-4131-8584-f57f721c4495@8e9ce",
+      "displayName": "",
+      "id": "8e9ce",
+      "name": "Map #28.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc04f": {
+      "importer": "texture",
+      "uuid": "bf694478-6657-4131-8584-f57f721c4495@cc04f",
+      "displayName": "",
+      "id": "cc04f",
+      "name": "Map #28.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bf694478-6657-4131-8584-f57f721c4495@8e9ce"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0cea": {
+      "importer": "gltf-material",
+      "uuid": "bf694478-6657-4131-8584-f57f721c4495@f0cea",
+      "displayName": "",
+      "id": "f0cea",
+      "name": "Material #62.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b84c": {
+      "importer": "gltf-scene",
+      "uuid": "bf694478-6657-4131-8584-f57f721c4495@9b84c",
+      "displayName": "",
+      "id": "9b84c",
+      "name": "gargoyle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #28",
+        "uri": "bf694478-6657-4131-8584-f57f721c4495@8e9ce"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "bf694478-6657-4131-8584-f57f721c4495@9b84c",
+    "assetFinder": {
+      "meshes": [
+        "bf694478-6657-4131-8584-f57f721c4495@c7c22"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bf694478-6657-4131-8584-f57f721c4495@cc04f"
+      ],
+      "materials": [
+        "bf694478-6657-4131-8584-f57f721c4495@f0cea"
+      ],
+      "scenes": [
+        "bf694478-6657-4131-8584-f57f721c4495@9b84c"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_red",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 120,
+      "height": 120
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 120,
+      "height": 120
+    },
+    "rotated": false,
+    "capInsets": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "texture": "bf69e5d5-3042-47c9-ace4-6a627441e6e7@6c48a",
+    "packable": true
+  }
+}

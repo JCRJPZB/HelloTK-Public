@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2",
+  "files": [],
+  "subMetas": {
+    "fbd76": {
+      "importer": "gltf-mesh",
+      "uuid": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@fbd76",
+      "displayName": "",
+      "id": "fbd76",
+      "name": "default007.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "42c68": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@42c68",
+      "displayName": "",
+      "id": "42c68",
+      "name": "Map #13.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67be6": {
+      "importer": "texture",
+      "uuid": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@67be6",
+      "displayName": "",
+      "id": "67be6",
+      "name": "Map #13.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@42c68"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d39c8": {
+      "importer": "gltf-material",
+      "uuid": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@d39c8",
+      "displayName": "",
+      "id": "d39c8",
+      "name": "Material #47.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc0d6": {
+      "importer": "gltf-scene",
+      "uuid": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@dc0d6",
+      "displayName": "",
+      "id": "dc0d6",
+      "name": "wraith.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #13",
+        "uri": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@42c68"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@dc0d6",
+    "assetFinder": {
+      "meshes": [
+        "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@fbd76"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@67be6"
+      ],
+      "materials": [
+        "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@d39c8"
+      ],
+      "scenes": [
+        "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2@dc0d6"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

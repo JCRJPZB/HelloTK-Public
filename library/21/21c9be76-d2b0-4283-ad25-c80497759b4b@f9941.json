@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chest",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 167,
+      "height": 119
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 167,
+      "height": 119
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "21c9be76-d2b0-4283-ad25-c80497759b4b@6c48a",
+    "packable": true
+  }
+}

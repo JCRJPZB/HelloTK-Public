@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Black_0",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 4093,
+      "height": 4001
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 46.5
+    },
+    "originalSize": {
+      "width": 4096,
+      "height": 4096
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3b67e30c-ef08-4d91-b599-d1e69ff4f7d2@6c48a",
+    "packable": true
+  }
+}

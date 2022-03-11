@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477",
+  "files": [],
+  "subMetas": {
+    "31557": {
+      "importer": "gltf-material",
+      "uuid": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@31557",
+      "displayName": "",
+      "id": "31557",
+      "name": "Material #57.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5581": {
+      "importer": "gltf-mesh",
+      "uuid": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@a5581",
+      "displayName": "",
+      "id": "a5581",
+      "name": "default017.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ba695": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@ba695",
+      "displayName": "",
+      "id": "ba695",
+      "name": "Map #23.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b30f": {
+      "importer": "texture",
+      "uuid": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@5b30f",
+      "displayName": "",
+      "id": "5b30f",
+      "name": "Map #23.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@ba695"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7f59a": {
+      "importer": "gltf-scene",
+      "uuid": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@7f59a",
+      "displayName": "",
+      "id": "7f59a",
+      "name": "archer.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #23",
+        "uri": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@ba695"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@7f59a",
+    "assetFinder": {
+      "meshes": [
+        "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@a5581"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@5b30f"
+      ],
+      "materials": [
+        "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@31557"
+      ],
+      "scenes": [
+        "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477@7f59a"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

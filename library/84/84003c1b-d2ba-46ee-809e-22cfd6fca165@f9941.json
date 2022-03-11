@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "timer_slot",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 225,
+      "height": 13
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 225,
+      "height": 13
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "84003c1b-d2ba-46ee-809e-22cfd6fca165@6c48a",
+    "packable": true
+  }
+}

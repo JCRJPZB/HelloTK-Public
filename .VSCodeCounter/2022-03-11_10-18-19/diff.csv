@@ -1,0 +1,15 @@
+"filename", "language", "TypeScript", "JSON", "comment", "blank", "total"
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattleFieldMaker.ts", "TypeScript", 2, 0, 0, 0, 2
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattleResult.ts", "TypeScript", -1, 0, 0, 0, -1
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\StartScene\SignUp.ts", "TypeScript", -13, 0, 0, -1, -14
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\StartScene\StartPage.ts", "TypeScript", -33, 0, 0, -2, -35
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\Inventory\Inventory.ts", "TypeScript", 4, 0, 0, 1, 5
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StageDetails.ts", "TypeScript", -1, 0, 0, 0, -1
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StageMaker.ts", "TypeScript", -7, 0, -4, -2, -13
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StageMgr.ts", "TypeScript", 76, 0, 4, 5, 85
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StagePage.ts", "TypeScript", 4, 0, 0, 0, 4
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StagePoint.ts", "TypeScript", -1, 0, 0, 0, -1
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\resources\config\stage.json", "JSON", 0, 30, 0, 0, 30
+"d:\PZB\Cocos3D\HelloTK3.4.0\assets\resources\config\start_scene.json", "JSON", 0, -27, 0, 0, -27
+"d:\PZB\Cocos3D\HelloTK3.4.0\bulid\HelloTK\project.config.json", "JSON", 0, 1, 0, 0, 1
+"Total", "-", 30, 4, 0, 1, 35

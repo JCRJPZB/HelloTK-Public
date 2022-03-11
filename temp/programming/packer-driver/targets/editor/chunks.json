@@ -1,0 +1,969 @@
+{
+  "assets/Script/BattleField/Attack/AtkMgr.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_4": "assets/Script/BattleField/Attack/DmgCal.js",
+      "__unresolved_3": "assets/Script/BattleField/HP/HpMgr.js",
+      "__unresolved_1": "assets/Script/Tools/Functions.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/Attack/AtkMgr.js",
+    "mTimestamp": 1647001985553
+  },
+  "assets/Script/BattleField/Attack/DmgCal.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/Attack/DmgCal.js",
+    "mTimestamp": 1647001985425
+  },
+  "assets/Script/BattleField/Attack/Info.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/Attack/Info.js",
+    "mTimestamp": 1647001985456
+  },
+  "assets/Script/BattleField/BattlePauseMenu.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_2": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/BattlePauseMenu.js",
+    "mTimestamp": 1647001985508
+  },
+  "assets/Script/BattleField/BattleFieldMaker.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_5": "assets/Script/BattleField/Attack/Info.js",
+      "__unresolved_2": "assets/Script/BattleField/HP/HpMgr.js",
+      "__unresolved_1": "assets/Script/Heros/HerosMgr.js",
+      "__unresolved_6": "assets/Script/Tools/Configure.js",
+      "__unresolved_3": "assets/Script/Tools/Generator.js",
+      "__unresolved_4": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/BattleFieldMaker.js",
+    "mTimestamp": 1647001985358
+  },
+  "assets/Script/BattleField/BattleScene.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Script/BattleField/HP/HpMgr.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/BattleScene.js",
+    "mTimestamp": 1647002059809
+  },
+  "assets/Script/BattleField/HP/HpMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Script/BattleField/HP/HpNum.js",
+      "__unresolved_1": "assets/Script/Tools/Generator.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/HP/HpMgr.js",
+    "mTimestamp": 1647001985654
+  },
+  "assets/Script/BattleField/HP/HpNum.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Functions.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/HP/HpNum.js",
+    "mTimestamp": 1647001985622
+  },
+  "assets/Script/BattleField/BattlePage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Functions.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_3": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/BattlePage.js",
+    "mTimestamp": 1647001985589
+  },
+  "assets/Script/BattleField/Monster/MonsterMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Functions.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/Monster/MonsterMgr.js",
+    "mTimestamp": 1647001985725
+  },
+  "assets/Script/Error/BasicException.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Error/BasicException.js",
+    "mTimestamp": 1647001985745
+  },
+  "assets/Script/Error/UserException.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Error/UserException.js",
+    "mTimestamp": 1647001985754
+  },
+  "assets/Script/Heros/Formation/Formation.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_8": "assets/Script/Heros/Formation/FormationBar.js",
+      "__unresolved_9": "assets/Script/Heros/Formation/HeroPortrait.js",
+      "__unresolved_7": "assets/Script/Heros/HerosMgr.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_3": "assets/Script/Tools/Generator.js",
+      "__unresolved_2": "assets/Script/Tools/Functions.js",
+      "__unresolved_4": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_5": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_6": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Heros/Formation/Formation.js",
+    "mTimestamp": 1647001985907
+  },
+  "assets/Script/Heros/Formation/FormationBar.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Heros/Formation/FormationBar.js",
+    "mTimestamp": 1647001985810
+  },
+  "assets/Script/Heros/HerosMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Heros/HerosMgr.js",
+    "mTimestamp": 1647001985932
+  },
+  "assets/Script/Heros/Formation/HeroPortrait.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Heros/Formation/HeroPortrait.js",
+    "mTimestamp": 1647001985788
+  },
+  "assets/Script/Items/Item.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Script/Items/ItemBrowser.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_1": "assets/Script/Tools/Functions.js",
+      "__unresolved_3": "assets/Script/Tools/ImgMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Items/Item.js",
+    "mTimestamp": 1647001985959
+  },
+  "assets/Script/Items/ItemBrowser.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_5": "assets/Script/Items/Item.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_1": "assets/Script/Tools/Functions.js",
+      "__unresolved_3": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_4": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Items/ItemBrowser.js",
+    "mTimestamp": 1647002821133
+  },
+  "assets/Script/NetWork/LoginMsg.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Script/NetWork/MD5.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/NetWork/LoginMsg.js",
+    "mTimestamp": 1647001986054
+  },
+  "assets/Script/Items/ItemMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_5": "assets/Script/Items/Item.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_3": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_4": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Items/ItemMgr.js",
+    "mTimestamp": 1647001986039
+  },
+  "assets/Script/NetWork/Json2Exc.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/NetWork/Json2Exc.js",
+    "mTimestamp": 1647001986083
+  },
+  "assets/Script/NetWork/MD5.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/NetWork/MD5.js",
+    "mTimestamp": 1647001986203
+  },
+  "assets/Script/Player/PlayerMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Player/PlayerMgr.js",
+    "mTimestamp": 1647001986103
+  },
+  "assets/Script/NetWork/NetWork.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/NetWork/NetWork.js",
+    "mTimestamp": 1647001986070
+  },
+  "assets/Script/StartScene/Loading.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/StartScene/Loading.js",
+    "mTimestamp": 1647001986140
+  },
+  "assets/Script/StartScene/SignUp.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/NetWork/LoginMsg.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_3": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/StartScene/SignUp.js",
+    "mTimestamp": 1647001986244
+  },
+  "assets/Script/Spirit/SpiritMgr.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Spirit/SpiritMgr.js",
+    "mTimestamp": 1647001986112
+  },
+  "assets/Script/StartScene/StartPage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_2": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/StartScene/StartPage.js",
+    "mTimestamp": 1647001986276
+  },
+  "assets/Script/StartScene/StartScene.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_2": "assets/Script/UI/UIMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/StartScene/StartScene.js",
+    "mTimestamp": 1647001986218
+  },
+  "assets/Script/Tools/Configure.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/ResMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/Configure.js",
+    "mTimestamp": 1647001986329
+  },
+  "assets/Script/Tools/Err.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/Err.js",
+    "mTimestamp": 1647001986345
+  },
+  "assets/Script/Tools/GameMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_3": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_4": "assets/Script/Tools/MoveCamera.js",
+      "__unresolved_5": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_1": "assets/Script/UI/MainScene/Inventory/InventoryMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/GameMgr.js",
+    "mTimestamp": 1647002985906
+  },
+  "assets/Script/Tools/AlertLbl.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Generator.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/AlertLbl.js",
+    "mTimestamp": 1647001986300
+  },
+  "assets/Script/Tools/Generator.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/ResMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/Generator.js",
+    "mTimestamp": 1647001986548
+  },
+  "assets/Script/Tools/ImgMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/ResMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/ImgMgr.js",
+    "mTimestamp": 1647001986728
+  },
+  "assets/Script/Tools/MoveCamera.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/MoveCamera.js",
+    "mTimestamp": 1647001986660
+  },
+  "assets/Script/Tools/Functions.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/Functions.js",
+    "mTimestamp": 1647001986484
+  },
+  "assets/Script/Tools/ResMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/ResMgr.js",
+    "mTimestamp": 1647001986585
+  },
+  "assets/Script/Tools/RenderModel2UI.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/RenderModel2UI.js",
+    "mTimestamp": 1647001986705
+  },
+  "assets/Script/Tools/SceneMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/SceneMgr.js",
+    "mTimestamp": 1647001986860
+  },
+  "assets/Script/Tools/TouchScreen.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/TouchScreen.js",
+    "mTimestamp": 1647001986802
+  },
+  "assets/Script/UI/MainScene/HeroList/HeroEquip.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/HeroList/HeroEquip.js",
+    "mTimestamp": 1647001986874
+  },
+  "assets/Script/UI/MainScene/HeroList/HeroInfo.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/HeroList/HeroInfo.js",
+    "mTimestamp": 1647001986896
+  },
+  "assets/Script/UI/MainScene/HeroList/HeroList.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Heros/HerosMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_3": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_5": "assets/Script/UI/MainScene/HeroList/HeroListPortrait.js",
+      "__unresolved_4": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/HeroList/HeroList.js",
+    "mTimestamp": 1647001986959
+  },
+  "assets/Script/Tools/Subscribe.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/Subscribe.js",
+    "mTimestamp": 1647001986826
+  },
+  "assets/Script/UI/MainScene/HeroList/HeroListEquip.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/HeroList/HeroListEquip.js",
+    "mTimestamp": 1647001986910
+  },
+  "assets/Script/UI/MainScene/HeroList/HeroListPortrait.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/HeroList/HeroListPortrait.js",
+    "mTimestamp": 1647001986996
+  },
+  "assets/Script/UI/MainScene/HeroList/HeroSpirit.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/HeroList/HeroSpirit.js",
+    "mTimestamp": 1647001986971
+  },
+  "assets/Script/Tools/ShowNum.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Tools/ShowNum.js",
+    "mTimestamp": 1647001986765
+  },
+  "assets/Script/UI/MainScene/League/DynamicList.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Generator.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_4": "assets/Script/UI/MainScene/League/LeagueMgr.js",
+      "__unresolved_3": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/League/DynamicList.js",
+    "mTimestamp": 1647001987157
+  },
+  "assets/Script/UI/MainScene/HeroList/Model_UI.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Generator.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/HeroList/Model_UI.js",
+    "mTimestamp": 1647001987065
+  },
+  "assets/Script/UI/MainScene/League/League.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Player/PlayerMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_3": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/League/League.js",
+    "mTimestamp": 1647001987310
+  },
+  "assets/Script/UI/MainScene/League/LeagueList.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Functions.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_3": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_5": "assets/Script/UI/MainScene/League/LeagueJoin.js",
+      "__unresolved_6": "assets/Script/UI/MainScene/League/LeagueMgr.js",
+      "__unresolved_4": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/League/LeagueList.js",
+    "mTimestamp": 1647001987291
+  },
+  "assets/Script/UI/MainScene/League/LeagueJoin.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Player/PlayerMgr.js",
+      "__unresolved_2": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_3": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/League/LeagueJoin.js",
+    "mTimestamp": 1647001987251
+  },
+  "assets/Script/UI/MainScene/League/LeagueMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/League/LeagueMgr.js",
+    "mTimestamp": 1647001987358
+  },
+  "assets/Script/UI/MainScene/League/LeagueInfo.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Player/PlayerMgr.js",
+      "__unresolved_2": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_3": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_5": "assets/Script/UI/MainScene/League/LeagueMgr.js",
+      "__unresolved_4": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/League/LeagueInfo.js",
+    "mTimestamp": 1647001987211
+  },
+  "assets/Script/UI/MainScene/Mail/MailMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/Mail/MailMgr.js",
+    "mTimestamp": 1647001987381
+  },
+  "assets/Script/UI/MainScene/Mail/MailTitle.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/Mail/MailTitle.js",
+    "mTimestamp": 1647001987407
+  },
+  "assets/Script/UI/MainScene/MainScene.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Player/PlayerMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/MainScene.js",
+    "mTimestamp": 1647001987565
+  },
+  "assets/Script/UI/MainScene/MainPage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_2": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/MainPage.js",
+    "mTimestamp": 1647001987427
+  },
+  "assets/Script/UI/UIBase.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_2": "assets/Script/UI/UIContainer.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/UIBase.js",
+    "mTimestamp": 1647001987741
+  },
+  "assets/Script/UI/StageScene/StageScene.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/StageScene/StageScene.js",
+    "mTimestamp": 1647001987680
+  },
+  "assets/Script/UI/UIContainer.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/UIContainer.js",
+    "mTimestamp": 1647001987760
+  },
+  "assets/Script/UI/UIMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_3": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_4": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/UIMgr.js",
+    "mTimestamp": 1647001987800
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {
+      "__unresolved_0": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/base"
+      },
+      "__unresolved_1": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl"
+      },
+      "__unresolved_2": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl2"
+      },
+      "__unresolved_3": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/3d"
+      },
+      "__unresolved_4": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/2d"
+      },
+      "__unresolved_5": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/ui"
+      },
+      "__unresolved_6": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle"
+      },
+      "__unresolved_7": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle-2d"
+      },
+      "__unresolved_8": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-framework"
+      },
+      "__unresolved_9": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-framework"
+      },
+      "__unresolved_10": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/intersection-2d"
+      },
+      "__unresolved_11": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/primitive"
+      },
+      "__unresolved_12": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/profiler"
+      },
+      "__unresolved_13": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/audio"
+      },
+      "__unresolved_14": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/video"
+      },
+      "__unresolved_15": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/terrain"
+      },
+      "__unresolved_16": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/webview"
+      },
+      "__unresolved_17": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tween"
+      },
+      "__unresolved_18": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tiled-map"
+      },
+      "__unresolved_19": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/spine"
+      },
+      "__unresolved_20": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/dragon-bones"
+      }
+    },
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1647001982010,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1647001987986
+  },
+  "assets/Script/BattleField/BattleResult.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Items/ItemMgr.js",
+      "__unresolved_3": "assets/Script/Tools/Generator.js",
+      "__unresolved_2": "assets/Script/Tools/Functions.js",
+      "__unresolved_4": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_5": "assets/Script/UI/StageScene/StageMgr.js",
+      "__unresolved_6": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BattleField/BattleResult.js",
+    "mTimestamp": 1647003114609
+  },
+  "assets/Script/UI/MainScene/TaskList/Task.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/TaskList/Task.js",
+    "mTimestamp": 1647002060755
+  },
+  "assets/Script/UI/MainScene/TaskList/TaskMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/TaskList/TaskMgr.js",
+    "mTimestamp": 1647002060720
+  },
+  "assets/Script/UI/StageScene/StageDetails.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Items/ItemMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Functions.js",
+      "__unresolved_3": "assets/Script/Tools/Generator.js",
+      "__unresolved_4": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_5": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_6": "assets/Script/UI/StageScene/StageMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/StageScene/StageDetails.js",
+    "mTimestamp": 1647002060785
+  },
+  "assets/Script/UI/StageScene/StagePage.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Items/ItemMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Functions.js",
+      "__unresolved_3": "assets/Script/Tools/Generator.js",
+      "__unresolved_4": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_5": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_7": "assets/Script/UI/StageScene/StageMgr.js",
+      "__unresolved_6": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/StageScene/StagePage.js",
+    "mTimestamp": 1647002060968
+  },
+  "assets/Script/UI/StageScene/StagePoint.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/BattleField/Monster/MonsterMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Functions.js",
+      "__unresolved_3": "assets/Script/Tools/Generator.js",
+      "__unresolved_4": "assets/Script/Tools/ResMgr.js",
+      "__unresolved_5": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_6": "assets/Script/UI/StageScene/StageMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/StageScene/StagePoint.js",
+    "mTimestamp": 1647002060928
+  },
+  "assets/Script/UI/StageScene/StageMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Configure.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/StageScene/StageMgr.js",
+    "mTimestamp": 1647002060832
+  },
+  "assets/Script/UI/StageScene/StageMaker.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Generator.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_3": "assets/Script/UI/StageScene/StageMgr.js",
+      "__unresolved_4": "assets/Script/UI/StageScene/StagePoint.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/StageScene/StageMaker.js",
+    "mTimestamp": 1647002060806
+  },
+  "assets/Script/UI/MainScene/TaskList/TaskList.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Tools/Generator.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_4": "assets/Script/UI/MainScene/TaskList/Task.js",
+      "__unresolved_5": "assets/Script/UI/MainScene/TaskList/TaskMgr.js",
+      "__unresolved_3": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/TaskList/TaskList.js",
+    "mTimestamp": 1647002545414
+  },
+  "assets/Script/UI/MainScene/Mail/Mail.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Items/ItemMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Generator.js",
+      "__unresolved_3": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_5": "assets/Script/UI/MainScene/Mail/MailMgr.js",
+      "__unresolved_6": "assets/Script/UI/MainScene/Mail/MailTitle.js",
+      "__unresolved_4": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/Mail/Mail.js",
+    "mTimestamp": 1647002545380
+  },
+  "assets/Script/UI/MainScene/Inventory/Inventory.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_3": "assets/Script/Items/ItemMgr.js",
+      "__unresolved_4": "assets/Script/Tools/Generator.js",
+      "__unresolved_1": "assets/Script/UI/MainScene/Inventory/InventoryMgr.js",
+      "__unresolved_5": "assets/Script/UI/UIBase.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/Inventory/Inventory.js",
+    "mTimestamp": 1647002941076
+  },
+  "assets/Script/UI/MainScene/Inventory/InventoryMgr.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Items/ItemMgr.js",
+      "__unresolved_2": "assets/Script/Tools/Functions.js",
+      "__unresolved_3": "assets/Script/Tools/Subscribe.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/UI/MainScene/Inventory/InventoryMgr.js",
+    "mTimestamp": 1647002908513
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_0": "assets/Script/BattleField/Attack/AtkMgr.js",
+      "__unresolved_1": "assets/Script/BattleField/Attack/DmgCal.js",
+      "__unresolved_2": "assets/Script/BattleField/Attack/Info.js",
+      "__unresolved_3": "assets/Script/BattleField/BattleFieldMaker.js",
+      "__unresolved_4": "assets/Script/BattleField/BattlePage.js",
+      "__unresolved_5": "assets/Script/BattleField/BattlePauseMenu.js",
+      "__unresolved_7": "assets/Script/BattleField/BattleScene.js",
+      "__unresolved_9": "assets/Script/BattleField/HP/HpNum.js",
+      "__unresolved_8": "assets/Script/BattleField/HP/HpMgr.js",
+      "__unresolved_10": "assets/Script/BattleField/Monster/MonsterMgr.js",
+      "__unresolved_11": "assets/Script/Error/BasicException.js",
+      "__unresolved_12": "assets/Script/Error/UserException.js",
+      "__unresolved_13": "assets/Script/Heros/Formation/Formation.js",
+      "__unresolved_14": "assets/Script/Heros/Formation/FormationBar.js",
+      "__unresolved_15": "assets/Script/Heros/Formation/HeroPortrait.js",
+      "__unresolved_16": "assets/Script/Heros/HerosMgr.js",
+      "__unresolved_18": "assets/Script/Items/ItemBrowser.js",
+      "__unresolved_17": "assets/Script/Items/Item.js",
+      "__unresolved_19": "assets/Script/Items/ItemMgr.js",
+      "__unresolved_20": "assets/Script/NetWork/Json2Exc.js",
+      "__unresolved_22": "assets/Script/NetWork/MD5.js",
+      "__unresolved_21": "assets/Script/NetWork/LoginMsg.js",
+      "__unresolved_23": "assets/Script/NetWork/NetWork.js",
+      "__unresolved_24": "assets/Script/Player/PlayerMgr.js",
+      "__unresolved_25": "assets/Script/Spirit/SpiritMgr.js",
+      "__unresolved_26": "assets/Script/StartScene/Loading.js",
+      "__unresolved_27": "assets/Script/StartScene/SignUp.js",
+      "__unresolved_28": "assets/Script/StartScene/StartPage.js",
+      "__unresolved_29": "assets/Script/StartScene/StartScene.js",
+      "__unresolved_30": "assets/Script/Tools/AlertLbl.js",
+      "__unresolved_31": "assets/Script/Tools/Configure.js",
+      "__unresolved_32": "assets/Script/Tools/Err.js",
+      "__unresolved_34": "assets/Script/Tools/GameMgr.js",
+      "__unresolved_35": "assets/Script/Tools/Generator.js",
+      "__unresolved_33": "assets/Script/Tools/Functions.js",
+      "__unresolved_36": "assets/Script/Tools/ImgMgr.js",
+      "__unresolved_37": "assets/Script/Tools/MoveCamera.js",
+      "__unresolved_38": "assets/Script/Tools/RenderModel2UI.js",
+      "__unresolved_39": "assets/Script/Tools/ResMgr.js",
+      "__unresolved_40": "assets/Script/Tools/SceneMgr.js",
+      "__unresolved_41": "assets/Script/Tools/ShowNum.js",
+      "__unresolved_42": "assets/Script/Tools/Subscribe.js",
+      "__unresolved_43": "assets/Script/Tools/TouchScreen.js",
+      "__unresolved_44": "assets/Script/UI/MainScene/HeroList/HeroEquip.js",
+      "__unresolved_45": "assets/Script/UI/MainScene/HeroList/HeroInfo.js",
+      "__unresolved_46": "assets/Script/UI/MainScene/HeroList/HeroList.js",
+      "__unresolved_47": "assets/Script/UI/MainScene/HeroList/HeroListEquip.js",
+      "__unresolved_48": "assets/Script/UI/MainScene/HeroList/HeroListPortrait.js",
+      "__unresolved_49": "assets/Script/UI/MainScene/HeroList/HeroSpirit.js",
+      "__unresolved_50": "assets/Script/UI/MainScene/HeroList/Model_UI.js",
+      "__unresolved_51": "assets/Script/UI/MainScene/Inventory/Inventory.js",
+      "__unresolved_52": "assets/Script/UI/MainScene/Inventory/InventoryMgr.js",
+      "__unresolved_53": "assets/Script/UI/MainScene/League/DynamicList.js",
+      "__unresolved_54": "assets/Script/UI/MainScene/League/League.js",
+      "__unresolved_55": "assets/Script/UI/MainScene/League/LeagueInfo.js",
+      "__unresolved_56": "assets/Script/UI/MainScene/League/LeagueJoin.js",
+      "__unresolved_57": "assets/Script/UI/MainScene/League/LeagueList.js",
+      "__unresolved_58": "assets/Script/UI/MainScene/League/LeagueMgr.js",
+      "__unresolved_59": "assets/Script/UI/MainScene/Mail/Mail.js",
+      "__unresolved_60": "assets/Script/UI/MainScene/Mail/MailMgr.js",
+      "__unresolved_61": "assets/Script/UI/MainScene/Mail/MailTitle.js",
+      "__unresolved_62": "assets/Script/UI/MainScene/MainPage.js",
+      "__unresolved_63": "assets/Script/UI/MainScene/MainScene.js",
+      "__unresolved_64": "assets/Script/UI/MainScene/TaskList/Task.js",
+      "__unresolved_65": "assets/Script/UI/MainScene/TaskList/TaskList.js",
+      "__unresolved_66": "assets/Script/UI/MainScene/TaskList/TaskMgr.js",
+      "__unresolved_67": "assets/Script/UI/StageScene/StageDetails.js",
+      "__unresolved_68": "assets/Script/UI/StageScene/StageMaker.js",
+      "__unresolved_69": "assets/Script/UI/StageScene/StageMgr.js",
+      "__unresolved_70": "assets/Script/UI/StageScene/StagePage.js",
+      "__unresolved_71": "assets/Script/UI/StageScene/StagePoint.js",
+      "__unresolved_72": "assets/Script/UI/StageScene/StageScene.js",
+      "__unresolved_73": "assets/Script/UI/UIBase.js",
+      "__unresolved_74": "assets/Script/UI/UIContainer.js",
+      "__unresolved_75": "assets/Script/UI/UIMgr.js",
+      "__unresolved_6": "assets/Script/BattleField/BattleResult.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1647003114547,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  }
+}

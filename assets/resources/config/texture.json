@@ -1,0 +1,77 @@
+{
+    "start_scene": {
+        "sprites": [
+            {
+                "id": "bg",
+                "path": "Canvas/Bg/black"
+            },
+            {
+                "id": "start_btn_sp",
+                "path": "Canvas/Btn/btn_expand_slot"
+            },
+            {
+                "id": "login_bg",
+                "path": "Canvas/Bg/white"
+            },
+            {
+                "id": "login_btn_sp",
+                "path": "Canvas/Btn/btn_expand_slot"
+            },
+            {
+                "id": "regist_btn_sp",
+                "path":"Canvas/Btn/btn_expand_slot"
+            }
+        ]
+    },
+    "inventory": {
+        "player_test_1": {
+            "heros": [
+                {
+                    "id": "CaoCao",
+                    "lv": 60,
+                    "imp_brave": 12,
+                    "imp_lead": 12,
+                    "imp_wisdom": 12,
+                    "imp_politics": 12,
+                    "equipments": ["00001", "10001", "20001", "30001"]
+                },
+                {
+                    "id": "LiuBei",
+                    "lv": 60,
+                    "imp_brave": 12,
+                    "imp_lead": 12,
+                    "imp_wisdom": 12,
+                    "imp_politics": 12,
+                    "equipments": ["00001", "10001", "20001", "30001"]
+                },
+                {
+                    "id": "SunQuan",
+                    "lv": 60,
+                    "imp_brave": 12,
+                    "imp_lead": 12,
+                    "imp_wisdom": 12,
+                    "imp_politics": 12,
+                    "equipments": ["00001", "10001", "20001", "30001"]
+                },
+                {
+                    "id": "LvBu",
+                    "lv": 60,
+                    "imp_brave": 12,
+                    "imp_lead": 12,
+                    "imp_wisdom": 12,
+                    "imp_politics": 12,
+                    "equipments": ["00001", "10001", "20001", "30001"]
+                },
+                {
+                    "id": "ZhugeLiang",
+                    "lv": 60,
+                    "imp_brave": 12,
+                    "imp_lead": 12,
+                    "imp_wisdom": 12,
+                    "imp_politics": 12,
+                    "equipments": ["00001", "10001", "20001", "30001"]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "alerts": [
+        {
+            "id": "default",
+            "title": "默认标题",
+            "content": "默认内容",
+            "confirm": "确认",
+            "cancel": "取消"
+        },
+        {
+            "id": "league_up",
+            "title": "联盟",
+            "content": "默认内容",
+            "confirm": "确认",
+            "cancel": "取消"
+        },
+        {
+            "id": "hero_up",
+            "title": "英雄名称",
+            "content": "默认内容",
+            "confirm": "确认",
+            "cancel": "取消"
+        },
+        {
+            "id": "backpack_up",
+            "title": "背包",
+            "content": "默认内容",
+            "confirm": "确认",
+            "cancel": "取消"
+        },
+        {
+            "id": "mail_up",
+            "title": "邮件",
+            "content": "默认内容",
+            "confirm": "确认",
+            "cancel": "取消"
+        }
+    ]
+}

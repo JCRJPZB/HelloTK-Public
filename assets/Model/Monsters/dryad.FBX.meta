@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92",
+  "files": [],
+  "subMetas": {
+    "cb008": {
+      "importer": "gltf-mesh",
+      "uuid": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@cb008",
+      "displayName": "",
+      "id": "cb008",
+      "name": "default023.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "10c43": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@10c43",
+      "displayName": "",
+      "id": "10c43",
+      "name": "Map #29.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "25df9": {
+      "importer": "texture",
+      "uuid": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@25df9",
+      "displayName": "",
+      "id": "25df9",
+      "name": "Map #29.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@10c43"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b5d5": {
+      "importer": "gltf-material",
+      "uuid": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@9b5d5",
+      "displayName": "",
+      "id": "9b5d5",
+      "name": "Material #63.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0945": {
+      "importer": "gltf-scene",
+      "uuid": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@f0945",
+      "displayName": "",
+      "id": "f0945",
+      "name": "dryad.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #29",
+        "uri": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@10c43"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@f0945",
+    "assetFinder": {
+      "meshes": [
+        "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@cb008"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@25df9"
+      ],
+      "materials": [
+        "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@9b5d5"
+      ],
+      "scenes": [
+        "fa6d1e2e-32a0-483b-91e6-c13c955fcc92@f0945"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

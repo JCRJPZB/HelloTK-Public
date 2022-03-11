@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "default_league_flag",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 556,
+      "height": 935
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 556,
+      "height": 935
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "4262a2e0-7130-4043-b273-eaa1eda75da8@6c48a",
+    "packable": true
+  }
+}

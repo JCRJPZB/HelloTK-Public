@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "a81c542d-d13f-4438-bed1-8cda3433555d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {
+      "wechatgame": "zip"
+    },
+    "isRemoteBundle": {
+      "wechatgame": true,
+      "web-desktop": true
+    },
+    "isBundle": true,
+    "priority": 5,
+    "bundleName": "Animation"
+  }
+}

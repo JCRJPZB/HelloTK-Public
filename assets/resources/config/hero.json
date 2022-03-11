@@ -1,0 +1,199 @@
+{
+    "common": {
+        "annotation1": "英雄升级初始上限为60，每精英化一次上限提高5级，暂定最大等级为100",
+        "annotation2": "经验成长公式为(等级%10+2)^power*multi+base，每次精英化后等级将重置为1级，兵种等级+1，但不会改变武将的数值",
+        "base_pow": 2,
+        "base_lv_lim": 60,
+        "max_lv": 100,
+        "lv_lim_incre": 5,
+        "base_lvup_exp": 100,
+        "formation": [
+            {
+                "id": "fish",
+                "name": "鱼鳞阵",
+                "pos_idxs": [1, 3, 4, 5, 7],
+                "introduce": "提升部队格挡能力"
+            },
+            {
+                "id": "snake",
+                "name": "长蛇阵",
+                "pos_idxs": [0, 1, 4, 5, 8],
+                "introduce": "增加部队攻击能力"
+            },
+            {
+                "id": "crescent",
+                "name": "偃月阵",
+                "pos_idxs": [1, 2, 3, 5, 6],
+                "introduce": "提高暴击率"
+            },
+            {
+                "id": "cone",
+                "name": "锥形阵",
+                "pos_idxs": [0, 3, 5, 6, 8],
+                "introduce": "提高部队闪避能力"
+            },
+            {
+                "id": "eight_diagram",
+                "name": "八卦阵",
+                "pos_idxs": [0, 3, 4, 5, 8],
+                "introduce": "提高部队的防御力"
+            },
+            {
+                "id": "seven_star",
+                "name": "七星阵",
+                "pos_idxs": [0, 2, 4, 6, 8],
+                "introduce": "增加部队反击能力"
+            },
+            {
+                "id": "monster",
+                "name": "怪物",
+                "pos_idxs": [3, 4, 5],
+                "introduce": "无"
+            }
+        ],
+        "prePos": {
+            "3d_dist": 20,
+            "2d_dist": 120,
+            "pos": [
+                [-1, 0], [0, 0], [1, 0],
+                [-1, -1], [0, -1], [1, -1],
+                [-1, -2], [0, -2], [1, -2]
+            ]
+        }
+    },
+    "hero": [
+        {
+            "id": "CaoCao",
+            "name": "曹操",
+            "type": "lead",
+            "category": "hero",
+            "default_arms": "Cavalry_default",
+            "annotation1": "预制体给一个map(json)存着，为皮肤做铺垫",
+            "prefab": "General_002",
+            "atkEff": "default_atk_particle",
+            "skill_name": "default",
+            "skillEff": "default_skill_particle",
+            "numercal": {
+                "max_soldier": 100,
+                "base_hit": 1000000,
+                "base_crt": 0.2,
+                "base_blk": 0.1,
+                "base_dod": 0.4,
+                "brave": 60,
+                "lead": 100,
+                "wisdom": 60,
+                "politics": 60
+            }
+        },
+        {
+            "id": "LiuBei",
+            "name": "刘备",
+            "type": "lead",
+            "category": "hero",
+            "default_arms": "Infantry_default",
+            "prefab": "General_002",
+            "atkEff": "default_atk_particle",
+            "skill_name": "default",
+            "skillEff": "default_skill_particle",
+            "numercal": {
+                "max_soldier": 100,
+                "base_hit": 1000000,
+                "base_crt": 0.4,
+                "base_blk": 0.1,
+                "base_dod": 0.2,
+                "brave": 60,
+                "lead": 100,
+                "wisdom": 60,
+                "politics": 60
+            }
+        },
+        {
+            "id": "SunQuan",
+            "name": "孙权",
+            "type": "lead",
+            "category": "hero",
+            "default_arms": "Infantry_default",
+            "prefab": "General_002",
+            "atkEff": "default_atk_particle",
+            "skill_name": "default",
+            "skillEff": "default_skill_particle",
+            "numercal": {
+                "max_soldier": 100,
+                "base_hit": 1000000,
+                "base_crt": 0.1,
+                "base_blk": 0.4,
+                "base_dod": 0.2,
+                "brave": 60,
+                "lead": 100,
+                "wisdom": 60,
+                "politics": 60
+            }
+        },
+        {
+            "id": "LvBu",
+            "name": "吕布",
+            "type": "brave",
+            "category": "hero",
+            "default_arms": "Cavalry_default",
+            "prefab": "General_001",
+            "atkEff": "default_atk_particle",
+            "skill_name": "default",
+            "skillEff": "default_skill_particle",
+            "numercal": {
+                "max_soldier": 200,
+                "base_hit": 1000000,
+                "base_crt": 0.2,
+                "base_blk": 0.1,
+                "base_dod": 0.4,
+                "brave": 120,
+                "lead": 40,
+                "wisdom": 40,
+                "politics": 20
+            }
+        },
+        {
+            "id": "ZhugeLiang",
+            "name": "诸葛亮",
+            "type": "wisdom",
+            "category": "hero",
+            "default_arms": "Archer_default",
+            "prefab": "General_001",
+            "atkEff": "default_atk_particle",
+            "skill_name": "default",
+            "skillEff": "default_skill_particle",
+            "numercal": {
+                "max_soldier": 100,
+                "base_hit": 1000000,
+                "base_crt": 0.2,
+                "base_blk": 0.1,
+                "base_dod": 0.4,
+                "brave": 60,
+                "lead": 60,
+                "wisdom": 100,
+                "politics": 60
+            }
+        },
+        {
+            "id": "ZhouYu",
+            "name": "周瑜",
+            "type": "wisdom",
+            "category": "hero",
+            "default_arms": "Archer_default",
+            "prefab": "General_001",
+            "atkEff": "default_atk_particle",
+            "skill_name": "default",
+            "skillEff": "default_skill_particle",
+            "numercal": {
+                "max_soldier": 100,
+                "base_hit": 1000000,
+                "base_crt": 0.2,
+                "base_blk": 0.1,
+                "base_dod": 0.4,
+                "brave": 60,
+                "lead": 60,
+                "wisdom": 100,
+                "politics": 60
+            }
+        }
+    ]
+}

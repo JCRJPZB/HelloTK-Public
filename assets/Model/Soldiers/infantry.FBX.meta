@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f17f25f9-40ce-4500-9966-068158e76168",
+  "files": [],
+  "subMetas": {
+    "a9c9d": {
+      "importer": "gltf-mesh",
+      "uuid": "f17f25f9-40ce-4500-9966-068158e76168@a9c9d",
+      "displayName": "",
+      "id": "a9c9d",
+      "name": "default040.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e94de": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f17f25f9-40ce-4500-9966-068158e76168@e94de",
+      "displayName": "",
+      "id": "e94de",
+      "name": "Map #46.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0924": {
+      "importer": "texture",
+      "uuid": "f17f25f9-40ce-4500-9966-068158e76168@f0924",
+      "displayName": "",
+      "id": "f0924",
+      "name": "Map #46.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f17f25f9-40ce-4500-9966-068158e76168@e94de"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "371a1": {
+      "importer": "gltf-material",
+      "uuid": "f17f25f9-40ce-4500-9966-068158e76168@371a1",
+      "displayName": "",
+      "id": "371a1",
+      "name": "Material #100.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c1f": {
+      "importer": "gltf-scene",
+      "uuid": "f17f25f9-40ce-4500-9966-068158e76168@43c1f",
+      "displayName": "",
+      "id": "43c1f",
+      "name": "infantry.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #46",
+        "uri": "f17f25f9-40ce-4500-9966-068158e76168@e94de"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "f17f25f9-40ce-4500-9966-068158e76168@43c1f",
+    "assetFinder": {
+      "meshes": [
+        "f17f25f9-40ce-4500-9966-068158e76168@a9c9d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f17f25f9-40ce-4500-9966-068158e76168@f0924"
+      ],
+      "materials": [
+        "f17f25f9-40ce-4500-9966-068158e76168@371a1"
+      ],
+      "scenes": [
+        "f17f25f9-40ce-4500-9966-068158e76168@43c1f"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

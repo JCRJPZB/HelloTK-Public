@@ -1,0 +1,330 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "stage",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "scenes": [
+      {
+        "id": "main",
+        "last_stage": "",
+        "stages": [
+          {
+            "idx": 0,
+            "id": "main_1",
+            "next": "main_2",
+            "scene": "main",
+            "clear": false,
+            "available": true,
+            "name": "1.濮阳之战",
+            "pos": [
+              2.5,
+              0,
+              7.5
+            ],
+            "description": "公元194年，曹操与吕布争夺兖州地区的首次战役。兖州本来是曹操的根据地，治所在濮阳。",
+            "goal": [
+              "round:20",
+              "lost:1",
+              "num:3"
+            ],
+            "monsters": [
+              {
+                "id": "Dryad_001",
+                "mst_id": "Dryad",
+                "lv": 0,
+                "pos": 4
+              },
+              {
+                "id": "Gargoyle_001",
+                "mst_id": "Gargoyle",
+                "lv": 0,
+                "pos": 3
+              },
+              {
+                "id": "Gargoyle_002",
+                "mst_id": "Gargoyle",
+                "lv": 0,
+                "pos": 5
+              }
+            ],
+            "items": [
+              {
+                "id": "Diamond",
+                "max": 10,
+                "min": 10,
+                "is_once": true,
+                "p": 1
+              },
+              {
+                "id": "Gold",
+                "max": 410,
+                "min": 390,
+                "is_once": false,
+                "p": 1
+              },
+              {
+                "id": "Energy",
+                "max": 1,
+                "min": 1,
+                "is_once": false,
+                "p": 0.5
+              }
+            ]
+          },
+          {
+            "idx": 1,
+            "id": "main_2",
+            "next": "main_3",
+            "scene": "main",
+            "clear": false,
+            "available": false,
+            "name": "2.官渡之战",
+            "pos": [
+              20,
+              0,
+              7.5
+            ],
+            "description": "建安五年，曹操军与袁绍军相持于官渡，在此展开战略决战。曹操奇袭袁军在乌巢的粮仓，继而击溃袁军主力。此战奠定了曹操统一中国北方的基础。",
+            "goal": [
+              "round:20",
+              "lost:1",
+              "num:3"
+            ],
+            "monsters": [
+              {
+                "id": "Ghost_dragon_001",
+                "mst_id": "Ghost_dragon",
+                "lv": 0,
+                "pos": 4
+              },
+              {
+                "id": "Dryad_001",
+                "mst_id": "Dryad",
+                "lv": 0,
+                "pos": 3
+              },
+              {
+                "id": "Dryad_002",
+                "mst_id": "Dryad",
+                "lv": 0,
+                "pos": 5
+              }
+            ],
+            "items": [
+              {
+                "id": "Diamond",
+                "max": 10,
+                "min": 10,
+                "is_once": true,
+                "p": 1
+              },
+              {
+                "id": "Gold",
+                "max": 460,
+                "min": 440,
+                "is_once": false,
+                "p": 1
+              }
+            ]
+          },
+          {
+            "idx": 2,
+            "id": "main_3",
+            "next": "main_4",
+            "scene": "main",
+            "clear": false,
+            "available": false,
+            "name": "3.赤壁之战",
+            "pos": [
+              21,
+              0,
+              19
+            ],
+            "description": "曹操率二十万众顺江而下。孙权命周瑜、程普“为左右督，各领万人”，共计3万精锐水军，联合屯驻樊口的刘备军一起溯长江西进，与曹军相遇在赤壁。时曹公军众已染疾病，初一交战，曹军败退，暂驻军于乌林地带，周瑜等人在南岸，双方隔江对峙。周瑜采用部将黄盖的火攻之计，命其率小战船十艘，上装柴草，灌以膏油，假称投降，向北岸而进，至离曹营二里之处时，各船一齐点火，然后借助风势，直向曹军冲去，曹军大败，舟船被烧。曹操又下令将剩余的曹军舟船都予以烧毁，然后撤退，又因为士卒饥疫而死者大半。",
+            "goal": [
+              "round:20",
+              "lost:1",
+              "num:3"
+            ],
+            "monsters": [
+              {
+                "id": "Ghost_dragon_001",
+                "mst_id": "Ghost_dragon",
+                "lv": 0,
+                "pos": 4
+              },
+              {
+                "id": "Wraith_001",
+                "mst_id": "Wraith",
+                "lv": 0,
+                "pos": 3
+              },
+              {
+                "id": "Wraith_002",
+                "mst_id": "Wraith",
+                "lv": 0,
+                "pos": 5
+              }
+            ],
+            "items": [
+              {
+                "id": "GiftBox",
+                "max": 10,
+                "min": 10,
+                "is_once": true,
+                "p": 1
+              },
+              {
+                "id": "Gold",
+                "max": 490,
+                "min": 510,
+                "is_once": false,
+                "p": 1
+              },
+              {
+                "id": "Energy",
+                "max": 1,
+                "min": 1,
+                "is_once": false,
+                "p": 0.5
+              }
+            ]
+          },
+          {
+            "idx": 3,
+            "id": "main_4",
+            "next": "main_5",
+            "scene": "main",
+            "clear": false,
+            "available": false,
+            "name": "4.血战长坂",
+            "pos": [
+              30,
+              0,
+              18
+            ],
+            "description": "东汉建安十三年，长坂坡，曹操率领五千精锐骑兵追击刘备军。刘备军被曹操军击溃，仅有数十骑逃走。刘备因张飞据水断桥赢得逃亡时间，而甘夫人和刘禅在赵云的保护下幸免于难。",
+            "goal": [
+              "round:20",
+              "lost:1",
+              "num:3"
+            ],
+            "monsters": [
+              {
+                "id": "Puck_001",
+                "mst_id": "Puck",
+                "lv": 0,
+                "pos": 4
+              },
+              {
+                "id": "Wraith_001",
+                "mst_id": "Wraith",
+                "lv": 0,
+                "pos": 3
+              },
+              {
+                "id": "Wraith_002",
+                "mst_id": "Wraith",
+                "lv": 0,
+                "pos": 5
+              }
+            ],
+            "items": [
+              {
+                "id": "Diamond",
+                "max": 10,
+                "min": 10,
+                "is_once": true,
+                "p": 1
+              },
+              {
+                "id": "Gold",
+                "max": 560,
+                "min": 540,
+                "is_once": false,
+                "p": 1
+              },
+              {
+                "id": "Energy",
+                "max": 1,
+                "min": 1,
+                "is_once": false,
+                "p": 0.5
+              }
+            ]
+          },
+          {
+            "idx": 4,
+            "id": "main_5",
+            "next": null,
+            "scene": "main",
+            "clear": false,
+            "available": false,
+            "name": "5.七擒孟获",
+            "pos": [
+              35,
+              0,
+              8
+            ],
+            "description": "建兴三年，蜀汉丞相诸葛亮对南中发动平定南中的战争。当时朱褒、雍闿、高定等人叛变，南中豪强孟获亦有参与，最后诸葛亮亲率大军南下，平定南中。诸葛亮将当地酋长孟获捉住七次，放了七次，第七次在孟获城将孟获擒拿，并使他真正服输，不再为敌。",
+            "goal": [
+              "round:20",
+              "lost:1",
+              "num:3"
+            ],
+            "monsters": [
+              {
+                "id": "Puck_001",
+                "mst_id": "Puck",
+                "lv": 0,
+                "pos": 4
+              },
+              {
+                "id": "Ghost_dragon_001",
+                "mst_id": "Ghost_dragon",
+                "lv": 0,
+                "pos": 3
+              },
+              {
+                "id": "Ghost_dragon_002",
+                "mst_id": "Ghost_dragon",
+                "lv": 0,
+                "pos": 5
+              }
+            ],
+            "items": [
+              {
+                "id": "Diamond",
+                "max": 10,
+                "min": 10,
+                "is_once": true,
+                "p": 1
+              },
+              {
+                "id": "Gold",
+                "max": 610,
+                "min": 590,
+                "is_once": false,
+                "p": 1
+              },
+              {
+                "id": "Energy",
+                "max": 1,
+                "min": 1,
+                "is_once": false,
+                "p": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "goals": {
+      "replacement": "%d",
+      "round": "不超过%d回合。",
+      "lost": "己方被击退武将不超过%d位。",
+      "num": "己方最多上阵%d位武将。"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "root": "Canvas/UIRoot",
+    "types": [
+        {
+            "type_name": "Page",
+            "node_name": "PageRoot"
+        },
+        {
+            "type_name": "Window",
+            "node_name": "WindowRoot"
+        },
+        {
+            "type_name": "Alert",
+            "node_name": "AlertRoot"
+        }
+    ],
+    "pages": ["HeroList", "Inventory", "Mail", "League", "TaskList", "Formation", "MainPage", "StartPage"],
+    "windows": ["SignUp"],
+    "alerts": ["default_alert"]
+}

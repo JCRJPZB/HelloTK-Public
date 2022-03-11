@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero_border",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 3,
+      "width": 93,
+      "height": 121
+    },
+    "offset": {
+      "x": 0,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 93,
+      "height": 125
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "6776064e-6ab9-489e-b279-6d98b4d90a04@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_blue",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 150,
+      "height": 55
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 150,
+      "height": 55
+    },
+    "rotated": false,
+    "capInsets": [
+      15,
+      13,
+      16,
+      18
+    ],
+    "texture": "edc94f0c-ed49-4206-8f45-66f74d237074@6c48a",
+    "packable": true
+  }
+}

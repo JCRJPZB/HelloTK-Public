@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\resources",
+    "\\assets\\resources\\config",
+    "\\assets\\Script",
+    "\\assets\\Script\\BattleField",
+    "\\assets\\Script\\BattleField\\Attack",
+    "\\assets\\Script\\Heros",
+    "\\assets\\Script\\StartScene",
+    "\\assets\\Script\\Tools"
+  ],
+  "SelectedNode": "\\assets\\Script\\BattleField\\BattleMgr.ts",
+  "PreviewInSolutionExplorer": false
+}

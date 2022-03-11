@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17",
+  "files": [],
+  "subMetas": {
+    "c2b38": {
+      "importer": "gltf-mesh",
+      "uuid": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@c2b38",
+      "displayName": "",
+      "id": "c2b38",
+      "name": "default045.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "befa0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@befa0",
+      "displayName": "",
+      "id": "befa0",
+      "name": "Map #51.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a6d2": {
+      "importer": "texture",
+      "uuid": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@9a6d2",
+      "displayName": "",
+      "id": "9a6d2",
+      "name": "Map #51.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@befa0"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07867": {
+      "importer": "gltf-material",
+      "uuid": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@07867",
+      "displayName": "",
+      "id": "07867",
+      "name": "Material #105.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0f85": {
+      "importer": "gltf-scene",
+      "uuid": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@c0f85",
+      "displayName": "",
+      "id": "c0f85",
+      "name": "ghost_dragon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #51",
+        "uri": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@befa0"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@c0f85",
+    "assetFinder": {
+      "meshes": [
+        "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@c2b38"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@9a6d2"
+      ],
+      "materials": [
+        "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@07867"
+      ],
+      "scenes": [
+        "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17@c0f85"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

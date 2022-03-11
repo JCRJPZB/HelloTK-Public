@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "items",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "types": [
+      {
+        "type_id": "all",
+        "type_name": "全部"
+      },
+      {
+        "type_id": "resources",
+        "type_name": "资源"
+      },
+      {
+        "type_id": "spirit",
+        "type_name": "英魂"
+      },
+      {
+        "type_id": "equipment",
+        "type_name": "装备"
+      },
+      {
+        "type_id": "tool",
+        "type_name": "道具"
+      }
+    ],
+    "items": [
+      {
+        "id": "Diamond",
+        "img": "Diamond",
+        "type_id": "resources",
+        "sub_type_id": "default",
+        "describe": "及其稀有的道具。",
+        "name": "钻石",
+        "rare": "orange",
+        "access": [
+          "主线1-1",
+          "主线1-2",
+          "主线1-3"
+        ],
+        "able_to_use": false,
+        "max_num_once": 0
+      },
+      {
+        "id": "Gold",
+        "img": "Gold",
+        "type_id": "resources",
+        "sub_type_id": "default",
+        "describe": "基础货币。",
+        "name": "金币",
+        "rare": "white",
+        "access": [
+          "主线1-2",
+          "主线1-3",
+          "主线1-4",
+          "材料副本"
+        ],
+        "able_to_use": false,
+        "max_num_once": 0
+      },
+      {
+        "id": "Energy",
+        "img": "Energy",
+        "type_id": "resources",
+        "sub_type_id": "default",
+        "describe": "进行某些关卡所必须的道具。",
+        "name": "能量",
+        "rare": "white",
+        "access": [
+          "主线1-5",
+          "主线1-6",
+          "主线2-1"
+        ],
+        "able_to_use": false,
+        "max_num_once": 0
+      },
+      {
+        "id": "GiftBox",
+        "img": "GiftBox",
+        "type_id": "tool",
+        "sub_type_id": "default",
+        "describe": "打开有惊喜！",
+        "name": "宝箱",
+        "rare": "red",
+        "access": [
+          "主线1-6",
+          "主线2-7",
+          "主线3-8"
+        ],
+        "able_to_use": true,
+        "max_num_once": -1
+      }
+    ]
+  }
+}

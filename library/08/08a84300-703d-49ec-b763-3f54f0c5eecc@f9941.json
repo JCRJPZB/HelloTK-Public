@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_panel_paper",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 535,
+      "height": 184
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 535,
+      "height": 184
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "08a84300-703d-49ec-b763-3f54f0c5eecc@6c48a",
+    "packable": true
+  }
+}

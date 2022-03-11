@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero_empty",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 91,
+      "height": 116
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 91,
+      "height": 116
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "335cd5a1-3bc1-4ad7-9478-840a0fbe4dca@6c48a",
+    "packable": true
+  }
+}

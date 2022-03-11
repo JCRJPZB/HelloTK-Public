@@ -1,0 +1,15 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "bundle_list",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "bundles": [
+      "Material",
+      "Model",
+      "Texture",
+      "Prefab",
+      "Animation"
+    ]
+  }
+}

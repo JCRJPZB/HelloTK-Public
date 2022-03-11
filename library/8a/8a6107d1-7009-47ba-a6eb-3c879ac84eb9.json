@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "ui",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "root": "Canvas/UIRoot",
+    "types": [
+      {
+        "type_name": "Page",
+        "node_name": "PageRoot"
+      },
+      {
+        "type_name": "Window",
+        "node_name": "WindowRoot"
+      },
+      {
+        "type_name": "Alert",
+        "node_name": "AlertRoot"
+      }
+    ],
+    "pages": [
+      "HeroList",
+      "Inventory",
+      "Mail",
+      "League",
+      "TaskList",
+      "Formation",
+      "MainPage",
+      "StartPage"
+    ],
+    "windows": [
+      "SignUp"
+    ],
+    "alerts": [
+      "default_alert"
+    ]
+  }
+}

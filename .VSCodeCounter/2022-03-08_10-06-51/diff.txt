@@ -1,0 +1,36 @@
+Date : 2022-03-08 10:06:51
+Directory : d:\PZB\Cocos3D\HelloTK3.4.0
+Total : 7 files,  0 codes, 0 comments, -2 blanks, all -2 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| TypeScript |          7 |          0 |          0 |         -2 |         -2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                        |          7 |          0 |          0 |         -2 |         -2 |
+| assets                                                                   |          7 |          0 |          0 |         -2 |         -2 |
+| assets\Script                                                            |          7 |          0 |          0 |         -2 |         -2 |
+| assets\Script\BattleField                                                |          4 |        -18 |          0 |         -2 |        -20 |
+| assets\Script\Tools                                                      |          1 |          2 |          0 |          0 |          2 |
+| assets\Script\UI                                                         |          2 |         16 |          0 |          0 |         16 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                 | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattlePage.ts      | TypeScript |         12 |          0 |          2 |         14 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattlePauseMenu.ts | TypeScript |         18 |          0 |          3 |         21 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattleResult.ts    | TypeScript |         82 |          0 |          8 |         90 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattleScene.ts     | TypeScript |       -130 |          0 |        -15 |       -145 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\MoveCamera.ts            | TypeScript |          2 |          0 |          0 |          2 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\UIBase.ts                   | TypeScript |          9 |          0 |          0 |          9 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\UIMgr.ts                    | TypeScript |          7 |          0 |          0 |          7 |
+| Total                                                                    |            |          0 |          0 |         -2 |         -2 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+

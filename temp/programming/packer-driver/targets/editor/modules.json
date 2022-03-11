@@ -1,0 +1,8351 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 14558.69069999829,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "rewritten": "__unresolved_17",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "rewritten": "__unresolved_18",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "rewritten": "__unresolved_19",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "rewritten": "__unresolved_20",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 1158801.4649999999,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/AtkMgr.ts",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 35
+          },
+          "end": {
+            "line": 5,
+            "column": 105
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/DmgCal.ts",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 121
+          },
+          "end": {
+            "line": 5,
+            "column": 191
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/Info.ts",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 207
+          },
+          "end": {
+            "line": 5,
+            "column": 275
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleFieldMaker.ts",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 291
+          },
+          "end": {
+            "line": 5,
+            "column": 364
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattlePage.ts",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 380
+          },
+          "end": {
+            "line": 5,
+            "column": 447
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattlePauseMenu.ts",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 463
+          },
+          "end": {
+            "line": 5,
+            "column": 535
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleResult.ts",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 551
+          },
+          "end": {
+            "line": 5,
+            "column": 620
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleScene.ts",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 636
+          },
+          "end": {
+            "line": 5,
+            "column": 704
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpMgr.ts",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 720
+          },
+          "end": {
+            "line": 5,
+            "column": 785
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpNum.ts",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 801
+          },
+          "end": {
+            "line": 5,
+            "column": 866
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Monster/MonsterMgr.ts",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 882
+          },
+          "end": {
+            "line": 5,
+            "column": 957
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Error/BasicException.ts",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 973
+          },
+          "end": {
+            "line": 5,
+            "column": 1038
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Error/UserException.ts",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1054
+          },
+          "end": {
+            "line": 5,
+            "column": 1118
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/Formation.ts",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1134
+          },
+          "end": {
+            "line": 5,
+            "column": 1204
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/FormationBar.ts",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1220
+          },
+          "end": {
+            "line": 5,
+            "column": 1293
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/HeroPortrait.ts",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1309
+          },
+          "end": {
+            "line": 5,
+            "column": 1382
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Heros/HerosMgr.ts",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1398
+          },
+          "end": {
+            "line": 5,
+            "column": 1457
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Items/Item.ts",
+        "rewritten": "__unresolved_17",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1473
+          },
+          "end": {
+            "line": 5,
+            "column": 1528
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemBrowser.ts",
+        "rewritten": "__unresolved_18",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1544
+          },
+          "end": {
+            "line": 5,
+            "column": 1606
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts",
+        "rewritten": "__unresolved_19",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1622
+          },
+          "end": {
+            "line": 5,
+            "column": 1680
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/Json2Exc.ts",
+        "rewritten": "__unresolved_20",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1696
+          },
+          "end": {
+            "line": 5,
+            "column": 1757
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/LoginMsg.ts",
+        "rewritten": "__unresolved_21",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1773
+          },
+          "end": {
+            "line": 5,
+            "column": 1834
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/MD5.ts",
+        "rewritten": "__unresolved_22",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1850
+          },
+          "end": {
+            "line": 5,
+            "column": 1906
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/NetWork.ts",
+        "rewritten": "__unresolved_23",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1922
+          },
+          "end": {
+            "line": 5,
+            "column": 1982
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Player/PlayerMgr.ts",
+        "rewritten": "__unresolved_24",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1998
+          },
+          "end": {
+            "line": 5,
+            "column": 2059
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Spirit/SpiritMgr.ts",
+        "rewritten": "__unresolved_25",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2075
+          },
+          "end": {
+            "line": 5,
+            "column": 2136
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/Loading.ts",
+        "rewritten": "__unresolved_26",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2152
+          },
+          "end": {
+            "line": 5,
+            "column": 2215
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/SignUp.ts",
+        "rewritten": "__unresolved_27",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2231
+          },
+          "end": {
+            "line": 5,
+            "column": 2293
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/StartPage.ts",
+        "rewritten": "__unresolved_28",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2309
+          },
+          "end": {
+            "line": 5,
+            "column": 2374
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/StartScene.ts",
+        "rewritten": "__unresolved_29",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2390
+          },
+          "end": {
+            "line": 5,
+            "column": 2456
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/AlertLbl.ts",
+        "rewritten": "__unresolved_30",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2472
+          },
+          "end": {
+            "line": 5,
+            "column": 2531
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts",
+        "rewritten": "__unresolved_31",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2547
+          },
+          "end": {
+            "line": 5,
+            "column": 2607
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Err.ts",
+        "rewritten": "__unresolved_32",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2623
+          },
+          "end": {
+            "line": 5,
+            "column": 2677
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts",
+        "rewritten": "__unresolved_33",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2693
+          },
+          "end": {
+            "line": 5,
+            "column": 2753
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/GameMgr.ts",
+        "rewritten": "__unresolved_34",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2769
+          },
+          "end": {
+            "line": 5,
+            "column": 2827
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts",
+        "rewritten": "__unresolved_35",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2843
+          },
+          "end": {
+            "line": 5,
+            "column": 2903
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts",
+        "rewritten": "__unresolved_36",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2919
+          },
+          "end": {
+            "line": 5,
+            "column": 2976
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/MoveCamera.ts",
+        "rewritten": "__unresolved_37",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2992
+          },
+          "end": {
+            "line": 5,
+            "column": 3053
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/RenderModel2UI.ts",
+        "rewritten": "__unresolved_38",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3069
+          },
+          "end": {
+            "line": 5,
+            "column": 3134
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ResMgr.ts",
+        "rewritten": "__unresolved_39",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3150
+          },
+          "end": {
+            "line": 5,
+            "column": 3207
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/SceneMgr.ts",
+        "rewritten": "__unresolved_40",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3223
+          },
+          "end": {
+            "line": 5,
+            "column": 3282
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ShowNum.ts",
+        "rewritten": "__unresolved_41",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3298
+          },
+          "end": {
+            "line": 5,
+            "column": 3356
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts",
+        "rewritten": "__unresolved_42",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3372
+          },
+          "end": {
+            "line": 5,
+            "column": 3432
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/Tools/TouchScreen.ts",
+        "rewritten": "__unresolved_43",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3448
+          },
+          "end": {
+            "line": 5,
+            "column": 3510
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroEquip.ts",
+        "rewritten": "__unresolved_44",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3526
+          },
+          "end": {
+            "line": 5,
+            "column": 3602
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroInfo.ts",
+        "rewritten": "__unresolved_45",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3618
+          },
+          "end": {
+            "line": 5,
+            "column": 3693
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroList.ts",
+        "rewritten": "__unresolved_46",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3709
+          },
+          "end": {
+            "line": 5,
+            "column": 3784
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroListEquip.ts",
+        "rewritten": "__unresolved_47",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3800
+          },
+          "end": {
+            "line": 5,
+            "column": 3880
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroListPortrait.ts",
+        "rewritten": "__unresolved_48",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3896
+          },
+          "end": {
+            "line": 5,
+            "column": 3979
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroSpirit.ts",
+        "rewritten": "__unresolved_49",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 3995
+          },
+          "end": {
+            "line": 5,
+            "column": 4072
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/Model_UI.ts",
+        "rewritten": "__unresolved_50",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4088
+          },
+          "end": {
+            "line": 5,
+            "column": 4163
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/Inventory.ts",
+        "rewritten": "__unresolved_51",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4179
+          },
+          "end": {
+            "line": 5,
+            "column": 4256
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/InventoryMgr.ts",
+        "rewritten": "__unresolved_52",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4272
+          },
+          "end": {
+            "line": 5,
+            "column": 4352
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/DynamicList.ts",
+        "rewritten": "__unresolved_53",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4368
+          },
+          "end": {
+            "line": 5,
+            "column": 4444
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/League.ts",
+        "rewritten": "__unresolved_54",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4460
+          },
+          "end": {
+            "line": 5,
+            "column": 4531
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueInfo.ts",
+        "rewritten": "__unresolved_55",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4547
+          },
+          "end": {
+            "line": 5,
+            "column": 4622
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueJoin.ts",
+        "rewritten": "__unresolved_56",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4638
+          },
+          "end": {
+            "line": 5,
+            "column": 4713
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueList.ts",
+        "rewritten": "__unresolved_57",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4729
+          },
+          "end": {
+            "line": 5,
+            "column": 4804
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueMgr.ts",
+        "rewritten": "__unresolved_58",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4820
+          },
+          "end": {
+            "line": 5,
+            "column": 4894
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/Mail.ts",
+        "rewritten": "__unresolved_59",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4910
+          },
+          "end": {
+            "line": 5,
+            "column": 4977
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailMgr.ts",
+        "rewritten": "__unresolved_60",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 4993
+          },
+          "end": {
+            "line": 5,
+            "column": 5063
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailTitle.ts",
+        "rewritten": "__unresolved_61",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5079
+          },
+          "end": {
+            "line": 5,
+            "column": 5151
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/MainPage.ts",
+        "rewritten": "__unresolved_62",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5167
+          },
+          "end": {
+            "line": 5,
+            "column": 5233
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/MainScene.ts",
+        "rewritten": "__unresolved_63",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5249
+          },
+          "end": {
+            "line": 5,
+            "column": 5316
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/Task.ts",
+        "rewritten": "__unresolved_64",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5332
+          },
+          "end": {
+            "line": 5,
+            "column": 5403
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/TaskList.ts",
+        "rewritten": "__unresolved_65",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5419
+          },
+          "end": {
+            "line": 5,
+            "column": 5494
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/TaskMgr.ts",
+        "rewritten": "__unresolved_66",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5510
+          },
+          "end": {
+            "line": 5,
+            "column": 5584
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageDetails.ts",
+        "rewritten": "__unresolved_67",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5600
+          },
+          "end": {
+            "line": 5,
+            "column": 5671
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMaker.ts",
+        "rewritten": "__unresolved_68",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5687
+          },
+          "end": {
+            "line": 5,
+            "column": 5756
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts",
+        "rewritten": "__unresolved_69",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5772
+          },
+          "end": {
+            "line": 5,
+            "column": 5839
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StagePage.ts",
+        "rewritten": "__unresolved_70",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5855
+          },
+          "end": {
+            "line": 5,
+            "column": 5923
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StagePoint.ts",
+        "rewritten": "__unresolved_71",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 5939
+          },
+          "end": {
+            "line": 5,
+            "column": 6008
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageScene.ts",
+        "rewritten": "__unresolved_72",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 6024
+          },
+          "end": {
+            "line": 5,
+            "column": 6093
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts",
+        "rewritten": "__unresolved_73",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 6109
+          },
+          "end": {
+            "line": 5,
+            "column": 6163
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIContainer.ts",
+        "rewritten": "__unresolved_74",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 6179
+          },
+          "end": {
+            "line": 5,
+            "column": 6238
+          }
+        }
+      },
+      {
+        "value": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIMgr.ts",
+        "rewritten": "__unresolved_75",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 6254
+          },
+          "end": {
+            "line": 5,
+            "column": 6307
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/AtkMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/DmgCal.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/Info.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleFieldMaker.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattlePage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattlePauseMenu.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleResult.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleScene.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpNum.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Monster/MonsterMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Error/BasicException.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Error/UserException.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/Formation.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/FormationBar.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/HeroPortrait.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/HerosMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/Item.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemBrowser.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/Json2Exc.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/LoginMsg.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/MD5.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/NetWork.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Player/PlayerMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Spirit/SpiritMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/Loading.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/SignUp.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/StartPage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/StartScene/StartScene.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/AlertLbl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Err.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/GameMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/MoveCamera.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/RenderModel2UI.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ResMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/SceneMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ShowNum.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/TouchScreen.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroEquip.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroInfo.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroList.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroListEquip.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroListPortrait.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroSpirit.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/Model_UI.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/Inventory.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/InventoryMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/DynamicList.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/League.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueInfo.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueJoin.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueList.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/Mail.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailTitle.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/MainPage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/MainScene.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/Task.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/TaskList.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/TaskMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageDetails.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMaker.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StagePage.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StagePoint.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageScene.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIContainer.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIMgr.ts"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1647001955798,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleFieldMaker.ts": {
+    "mTimestamp": 1646903928000,
+    "chunkId": "assets/Script/BattleField/BattleFieldMaker.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      },
+      {
+        "value": "../Heros/HerosMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 25
+          },
+          "end": {
+            "line": 2,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "./HP/HpMgr",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 22
+          },
+          "end": {
+            "line": 3,
+            "column": 34
+          }
+        }
+      },
+      {
+        "value": "../Tools/Generator",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "./Attack/Info",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 21
+          },
+          "end": {
+            "line": 6,
+            "column": 36
+          }
+        }
+      },
+      {
+        "value": "../Tools/Configure",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 26
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/HerosMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/Info.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/DmgCal.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/BattleField/Attack/DmgCal.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 38
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/Info.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/BattleField/Attack/Info.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattlePauseMenu.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/BattleField/BattlePauseMenu.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../UI/UIBase",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/AtkMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/BattleField/Attack/AtkMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 38
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Functions",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../HP/HpMgr",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 22
+          },
+          "end": {
+            "line": 4,
+            "column": 35
+          }
+        }
+      },
+      {
+        "value": "./DmgCal",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Attack/DmgCal.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattlePage.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/BattleField/BattlePage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 60
+          },
+          "end": {
+            "line": 1,
+            "column": 64
+          }
+        }
+      },
+      {
+        "value": "../Tools/Functions",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../UI/UIBase",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/BattleField/HP/HpMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Generator",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "./HpNum",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 22
+          },
+          "end": {
+            "line": 5,
+            "column": 31
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpNum.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpNum.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/BattleField/HP/HpNum.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 65
+          },
+          "end": {
+            "line": 1,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Functions",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Monster/MonsterMgr.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/BattleField/Monster/MonsterMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Functions",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Error/BasicException.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/Error/BasicException.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Error/UserException.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/Error/UserException.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/HeroPortrait.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Heros/Formation/HeroPortrait.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 59
+          },
+          "end": {
+            "line": 1,
+            "column": 63
+          }
+        }
+      },
+      {
+        "value": "../../Tools/ImgMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/FormationBar.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/Heros/Formation/FormationBar.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 51
+          },
+          "end": {
+            "line": 1,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Heros/HerosMgr.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/Heros/HerosMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/Formation.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Heros/Formation/Formation.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 66
+          },
+          "end": {
+            "line": 1,
+            "column": 70
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Functions",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Generator",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/ImgMgr",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 26
+          },
+          "end": {
+            "line": 6,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../UI/UIBase",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 23
+          },
+          "end": {
+            "line": 7,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "../HerosMgr",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 25
+          },
+          "end": {
+            "line": 8,
+            "column": 38
+          }
+        }
+      },
+      {
+        "value": "./FormationBar",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 29
+          },
+          "end": {
+            "line": 9,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "./HeroPortrait",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 29
+          },
+          "end": {
+            "line": 10,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/HerosMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/FormationBar.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/Formation/HeroPortrait.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Items/Item.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Items/Item.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 59
+          },
+          "end": {
+            "line": 1,
+            "column": 63
+          }
+        }
+      },
+      {
+        "value": "../Tools/Functions",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/ImgMgr",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "./ItemBrowser",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 28
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemBrowser.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Items/ItemMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 50
+          },
+          "end": {
+            "line": 1,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/ImgMgr",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "./Item",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 21
+          },
+          "end": {
+            "line": 6,
+            "column": 29
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/Item.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/NetWork/LoginMsg.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/NetWork/LoginMsg.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 38
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "./MD5",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 20
+          },
+          "end": {
+            "line": 4,
+            "column": 27
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/MD5.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/NetWork/Json2Exc.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/NetWork/Json2Exc.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/NetWork/NetWork.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/NetWork/NetWork.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Player/PlayerMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Player/PlayerMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Spirit/SpiritMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Spirit/SpiritMgr.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/StartScene/Loading.ts": {
+    "mTimestamp": 1646870952000,
+    "chunkId": "assets/Script/StartScene/Loading.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 51
+          },
+          "end": {
+            "line": 1,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/StartScene/StartScene.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/StartScene/StartScene.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 51
+          },
+          "end": {
+            "line": 1,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../UI/UIMgr",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 22
+          },
+          "end": {
+            "line": 3,
+            "column": 35
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/NetWork/MD5.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/NetWork/MD5.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 38
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/StartScene/SignUp.ts": {
+    "mTimestamp": 1646903928000,
+    "chunkId": "assets/Script/StartScene/SignUp.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 50
+          },
+          "end": {
+            "line": 1,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "../NetWork/LoginMsg",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 25
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../UI/UIBase",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/NetWork/LoginMsg.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/StartScene/StartPage.ts": {
+    "mTimestamp": 1646903928000,
+    "chunkId": "assets/Script/StartScene/StartPage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 54
+          },
+          "end": {
+            "line": 1,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../UI/UIBase",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/Configure.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 55
+          },
+          "end": {
+            "line": 1,
+            "column": 59
+          }
+        }
+      },
+      {
+        "value": "./ResMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ResMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/AlertLbl.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/Tools/AlertLbl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 68
+          },
+          "end": {
+            "line": 1,
+            "column": 72
+          }
+        }
+      },
+      {
+        "value": "./Generator",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/Err.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/Err.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/Functions.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 84
+          },
+          "end": {
+            "line": 1,
+            "column": 88
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/Generator.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 71
+          },
+          "end": {
+            "line": 1,
+            "column": 75
+          }
+        }
+      },
+      {
+        "value": "./ResMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ResMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/ResMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/ResMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 90
+          },
+          "end": {
+            "line": 1,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/MoveCamera.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/MoveCamera.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 119
+          },
+          "end": {
+            "line": 1,
+            "column": 123
+          }
+        }
+      },
+      {
+        "value": "./Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/RenderModel2UI.ts": {
+    "mTimestamp": 1646870566000,
+    "chunkId": "assets/Script/Tools/RenderModel2UI.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 88
+          },
+          "end": {
+            "line": 1,
+            "column": 92
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/ShowNum.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/ShowNum.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 71
+          },
+          "end": {
+            "line": 1,
+            "column": 75
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/TouchScreen.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/TouchScreen.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 103
+          },
+          "end": {
+            "line": 1,
+            "column": 107
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/Subscribe.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/SceneMgr.ts": {
+    "mTimestamp": 1646870920000,
+    "chunkId": "assets/Script/Tools/SceneMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 67
+          },
+          "end": {
+            "line": 1,
+            "column": 71
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroEquip.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/HeroList/HeroEquip.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroInfo.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/HeroList/HeroInfo.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 40
+          },
+          "end": {
+            "line": 1,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroListEquip.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/HeroList/HeroListEquip.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/Tools/ImgMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 57
+          },
+          "end": {
+            "line": 1,
+            "column": 61
+          }
+        }
+      },
+      {
+        "value": "./ResMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ResMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroList.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/HeroList/HeroList.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 48
+          },
+          "end": {
+            "line": 1,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Heros/HerosMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 25
+          },
+          "end": {
+            "line": 2,
+            "column": 50
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./HeroListPortrait",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 33
+          },
+          "end": {
+            "line": 6,
+            "column": 53
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Heros/HerosMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroListPortrait.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroSpirit.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/HeroList/HeroSpirit.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/HeroListPortrait.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/HeroList/HeroListPortrait.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 59
+          },
+          "end": {
+            "line": 1,
+            "column": 63
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/ImgMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/HeroList/Model_UI.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/HeroList/Model_UI.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 88
+          },
+          "end": {
+            "line": 1,
+            "column": 92
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Generator",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/DynamicList.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/League/DynamicList.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 49
+          },
+          "end": {
+            "line": 1,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Generator",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./LeagueMgr",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueInfo.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/League/LeagueInfo.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 57
+          },
+          "end": {
+            "line": 1,
+            "column": 61
+          }
+        }
+      },
+      {
+        "value": "../../../Player/PlayerMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/ImgMgr",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./LeagueMgr",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 26
+          },
+          "end": {
+            "line": 6,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Player/PlayerMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueJoin.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/League/LeagueJoin.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 63
+          },
+          "end": {
+            "line": 1,
+            "column": 67
+          }
+        }
+      },
+      {
+        "value": "../../../Player/PlayerMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/ImgMgr",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Player/PlayerMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueList.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/League/LeagueList.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Functions",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./LeagueJoin",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 27
+          },
+          "end": {
+            "line": 6,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./LeagueMgr",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 26
+          },
+          "end": {
+            "line": 7,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueJoin.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/LeagueMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/League/LeagueMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/League/League.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/League/League.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "../../../Player/PlayerMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Player/PlayerMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/Mail/MailMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/MainPage.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/MainPage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../UIBase",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 34
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailTitle.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/MainScene/Mail/MailTitle.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 51
+          },
+          "end": {
+            "line": 1,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/MainScene.ts": {
+    "mTimestamp": 1646870952000,
+    "chunkId": "assets/Script/UI/MainScene/MainScene.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../Player/PlayerMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 50
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Player/PlayerMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageScene.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/StageScene/StageScene.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/UIBase.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "./UIContainer",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIContainer.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/UIContainer.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/UIContainer.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 89
+          },
+          "end": {
+            "line": 1,
+            "column": 93
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/UIMgr.ts": {
+    "mTimestamp": 1646870576000,
+    "chunkId": "assets/Script/UI/UIMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 74
+          },
+          "end": {
+            "line": 1,
+            "column": 78
+          }
+        }
+      },
+      {
+        "value": "../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "./UIBase",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleScene.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/BattleField/BattleScene.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "./HP/HpMgr",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 22
+          },
+          "end": {
+            "line": 3,
+            "column": 34
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/HP/HpMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/TaskMgr.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/UI/MainScene/TaskList/TaskMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/Task.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/UI/MainScene/TaskList/Task.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 70
+          },
+          "end": {
+            "line": 1,
+            "column": 74
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 23
+          },
+          "end": {
+            "line": 2,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageDetails.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/UI/StageScene/StageDetails.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 78
+          },
+          "end": {
+            "line": 1,
+            "column": 82
+          }
+        }
+      },
+      {
+        "value": "../../Items/ItemMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 24
+          },
+          "end": {
+            "line": 2,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Functions",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Generator",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/ImgMgr",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 26
+          },
+          "end": {
+            "line": 6,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "./StageMgr",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 25
+          },
+          "end": {
+            "line": 7,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMaker.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/UI/StageScene/StageMaker.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 50
+          },
+          "end": {
+            "line": 1,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Generator",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "./StageMgr",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 25
+          },
+          "end": {
+            "line": 4,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./StagePoint",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 27
+          },
+          "end": {
+            "line": 5,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StagePoint.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/UI/StageScene/StageMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Configure",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Configure.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StagePoint.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/UI/StageScene/StagePoint.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 107
+          },
+          "end": {
+            "line": 1,
+            "column": 111
+          }
+        }
+      },
+      {
+        "value": "../../BattleField/Monster/MonsterMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 27
+          },
+          "end": {
+            "line": 2,
+            "column": 65
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Functions",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Generator",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/ResMgr",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 26
+          },
+          "end": {
+            "line": 6,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "./StageMgr",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 25
+          },
+          "end": {
+            "line": 7,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/BattleField/Monster/MonsterMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ResMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StagePage.ts": {
+    "mTimestamp": 1647002048000,
+    "chunkId": "assets/Script/UI/StageScene/StagePage.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 48
+          },
+          "end": {
+            "line": 1,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../Items/ItemMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 24
+          },
+          "end": {
+            "line": 2,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Functions",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Generator",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../../Tools/ImgMgr",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "../../Tools/Subscribe",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 26
+          },
+          "end": {
+            "line": 6,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../UIBase",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 23
+          },
+          "end": {
+            "line": 7,
+            "column": 34
+          }
+        }
+      },
+      {
+        "value": "./StageMgr",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 25
+          },
+          "end": {
+            "line": 8,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/Mail.ts": {
+    "mTimestamp": 1647002420000,
+    "chunkId": "assets/Script/UI/MainScene/Mail/Mail.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 50
+          },
+          "end": {
+            "line": 1,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "../../../Items/ItemMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 24
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./MailMgr",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 24
+          },
+          "end": {
+            "line": 6,
+            "column": 35
+          }
+        }
+      },
+      {
+        "value": "./MailTitle",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 26
+          },
+          "end": {
+            "line": 7,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Mail/MailTitle.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/TaskList.ts": {
+    "mTimestamp": 1647002234000,
+    "chunkId": "assets/Script/UI/MainScene/TaskList/TaskList.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Generator",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./Task",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 21
+          },
+          "end": {
+            "line": 5,
+            "column": 29
+          }
+        }
+      },
+      {
+        "value": "./TaskMgr",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 24
+          },
+          "end": {
+            "line": 6,
+            "column": 35
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/Task.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/TaskList/TaskMgr.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemBrowser.ts": {
+    "mTimestamp": 1647002610000,
+    "chunkId": "assets/Script/Items/ItemBrowser.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 59
+          },
+          "end": {
+            "line": 1,
+            "column": 63
+          }
+        }
+      },
+      {
+        "value": "../Tools/Functions",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 26
+          },
+          "end": {
+            "line": 2,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/ImgMgr",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "./Item",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 21
+          },
+          "end": {
+            "line": 6,
+            "column": 29
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/Item.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/InventoryMgr.ts": {
+    "mTimestamp": 1647002886000,
+    "chunkId": "assets/Script/UI/MainScene/Inventory/InventoryMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 44
+          },
+          "end": {
+            "line": 1,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../../Items/ItemMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 24
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Functions",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 52
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/Inventory.ts": {
+    "mTimestamp": 1647002940000,
+    "chunkId": "assets/Script/UI/MainScene/Inventory/Inventory.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 40
+          },
+          "end": {
+            "line": 1,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "./InventoryMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 29
+          },
+          "end": {
+            "line": 2,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Subscribe",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../../Items/ItemMgr",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 24
+          },
+          "end": {
+            "line": 4,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../../../Tools/Generator",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../../UIBase",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 23
+          },
+          "end": {
+            "line": 6,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/InventoryMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/Tools/GameMgr.ts": {
+    "mTimestamp": 1647002984000,
+    "chunkId": "assets/Script/Tools/GameMgr.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 54
+          },
+          "end": {
+            "line": 1,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "../UI/MainScene/Inventory/InventoryMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 29
+          },
+          "end": {
+            "line": 2,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "./Generator",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./ImgMgr",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./MoveCamera",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 27
+          },
+          "end": {
+            "line": 5,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./Subscribe",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 26
+          },
+          "end": {
+            "line": 6,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/MainScene/Inventory/InventoryMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/ImgMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/MoveCamera.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      }
+    ]
+  },
+  "file:///E:/GitHub/HelloTK/assets/Script/BattleField/BattleResult.ts": {
+    "mTimestamp": 1647003114000,
+    "chunkId": "assets/Script/BattleField/BattleResult.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 40
+          },
+          "end": {
+            "line": 1,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "../Items/ItemMgr",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 24
+          },
+          "end": {
+            "line": 2,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "../Tools/Functions",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Generator",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../Tools/Subscribe",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "../UI/StageScene/StageMgr",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 25
+          },
+          "end": {
+            "line": 6,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "../UI/UIBase",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 23
+          },
+          "end": {
+            "line": 7,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Items/ItemMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Functions.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Generator.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/Tools/Subscribe.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/StageScene/StageMgr.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///E:/GitHub/HelloTK/assets/Script/UI/UIBase.ts"
+      }
+    ]
+  }
+}

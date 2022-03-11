@@ -1,0 +1,95 @@
+Date : 2022-03-09 17:21:43
+Directory : d:\PZB\Cocos3D\HelloTK3.4.0
+Total : 49 files,  162 codes, -49 comments, -9 blanks, all 104 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |         90 |          0 |          0 |         90 |
+| TypeScript |         46 |         72 |        -49 |         -9 |         14 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                             | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                |         49 |        162 |        -49 |         -9 |        104 |
+| assets                                                                           |         49 |        162 |        -49 |         -9 |        104 |
+| assets\Script                                                                    |         46 |         72 |        -49 |         -9 |         14 |
+| assets\Script\BattleField                                                        |          8 |         13 |          2 |         -6 |          9 |
+| assets\Script\BattleField\Attack                                                 |          2 |          6 |          0 |         -1 |          5 |
+| assets\Script\BattleField\HP                                                     |          2 |        -50 |         -4 |        -10 |        -64 |
+| assets\Script\Heros                                                              |          1 |         -1 |          0 |          0 |         -1 |
+| assets\Script\Heros\Formation                                                    |          1 |         -1 |          0 |          0 |         -1 |
+| assets\Script\Items                                                              |          3 |         -3 |          0 |          0 |         -3 |
+| assets\Script\NetWork                                                            |          2 |         -1 |          0 |         -1 |         -2 |
+| assets\Script\Player                                                             |          1 |         -1 |          0 |          0 |         -1 |
+| assets\Script\Spirit                                                             |          1 |          0 |          0 |         -1 |         -1 |
+| assets\Script\StartScene                                                         |          4 |          3 |          0 |          0 |          3 |
+| assets\Script\Tools                                                              |         10 |          7 |          0 |         -1 |          6 |
+| assets\Script\UI                                                                 |         16 |         55 |        -51 |          0 |          4 |
+| assets\Script\UI\MainScene                                                       |         10 |         60 |        -52 |          0 |          8 |
+| assets\Script\UI\MainScene\Inventory                                             |          2 |         -2 |          0 |          0 |         -2 |
+| assets\Script\UI\MainScene\League                                                |          3 |         -3 |          0 |          0 |         -3 |
+| assets\Script\UI\MainScene\TaskList                                              |          3 |         67 |        -52 |          0 |         15 |
+| assets\Script\UI\StageScene                                                      |          3 |         -3 |          0 |          0 |         -3 |
+| assets\resources                                                                 |          3 |         90 |          0 |          0 |         90 |
+| assets\resources\config                                                          |          3 |         90 |          0 |          0 |         90 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                         | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\Attack\AtkMgr.ts           | TypeScript |          6 |          0 |          0 |          6 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\Attack\Info.ts             | TypeScript |          0 |          0 |         -1 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattleFieldMaker.ts        | TypeScript |          1 |          0 |         -1 |          0 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattlePage.ts              | TypeScript |         55 |          4 |          6 |         65 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattleResult.ts            | TypeScript |         -2 |          1 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\BattleScene.ts             | TypeScript |          3 |          1 |          0 |          4 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\HP\HpMgr.ts                | TypeScript |          3 |          0 |          0 |          3 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\BattleField\HP\TotalHp.ts              | TypeScript |        -53 |         -4 |        -10 |        -67 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Heros\Formation\Formation.ts           | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Items\Item.ts                          | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Items\ItemBrowser.ts                   | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Items\ItemMgr.ts                       | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\NetWork\Json2Exc.ts                    | TypeScript |          0 |          0 |         -1 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\NetWork\LoginMsg.ts                    | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Player\PlayerMgr.ts                    | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Spirit\SpiritMgr.ts                    | TypeScript |          0 |          0 |         -1 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\StartScene\Loading.ts                  | TypeScript |          1 |          0 |          0 |          1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\StartScene\SignUp.ts                   | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\StartScene\StartPage.ts                | TypeScript |         -2 |          0 |          0 |         -2 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\StartScene\StartScene.ts               | TypeScript |          5 |          0 |          0 |          5 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\Configure.ts                     | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\Err.ts                           | TypeScript |          4 |          0 |          0 |          4 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\GameMgr.ts                       | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\Generator.ts                     | TypeScript |          3 |          0 |          0 |          3 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\ImgMgr.ts                        | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\MoveCamera.ts                    | TypeScript |          4 |          0 |          0 |          4 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\ResMgr.ts                        | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\SceneMgr.ts                      | TypeScript |          1 |          0 |          0 |          1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\ShowNum.ts                       | TypeScript |          0 |          0 |         -1 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\Tools\TouchScreen.ts                   | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\Inventory\Inventory.ts    | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\Inventory\InventoryMgr.ts | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\League\DynamicList.ts     | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\League\LeagueJoin.ts      | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\League\LeagueList.ts      | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\MainPage.ts               | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\MainScene.ts              | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\TaskList\Task.ts          | TypeScript |         -1 |        -30 |         -6 |        -37 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\TaskList\TaskList.ts      | TypeScript |          4 |          1 |          2 |          7 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\MainScene\TaskList\TaskMgr.ts       | TypeScript |         64 |        -23 |          4 |         45 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StageDetails.ts          | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StageMaker.ts            | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\StageScene\StagePage.ts             | TypeScript |         -1 |          0 |          0 |         -1 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\UIBase.ts                           | TypeScript |         -9 |          0 |          0 |         -9 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\UIContainer.ts                      | TypeScript |          6 |          0 |          0 |          6 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\Script\UI\UIMgr.ts                            | TypeScript |          1 |          1 |          0 |          2 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\resources\config\hero.json                    | JSON       |          6 |          0 |          0 |          6 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\resources\config\monsters.json                | JSON       |          5 |          0 |          0 |          5 |
+| d:\PZB\Cocos3D\HelloTK3.4.0\assets\resources\config\task.json                    | JSON       |         79 |          0 |          0 |         79 |
+| Total                                                                            |            |        162 |        -49 |         -9 |        104 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

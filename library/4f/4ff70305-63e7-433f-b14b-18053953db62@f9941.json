@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "separator",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 304,
+      "height": 29
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 304,
+      "height": 29
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "4ff70305-63e7-433f-b14b-18053953db62@6c48a",
+    "packable": true
+  }
+}

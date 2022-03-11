@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_backpack",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 83,
+      "height": 66
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 83,
+      "height": 66
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e94f5053-7114-483b-8aec-e3f1f1e97ed2@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "task",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "category": [
+      "all",
+      "activity",
+      "main",
+      "branch",
+      "daily",
+      "weekly"
+    ],
+    "tasks": {
+      "activity": [],
+      "main": [],
+      "branch": [],
+      "daily": [],
+      "weekly": [
+        {
+          "id": "task_w_defeat_1",
+          "name": "每周任务·破敌 其一",
+          "category": "weekly",
+          "describe": "累计击败10次Boss",
+          "pre_task": null,
+          "listen_msg": "defeat boss",
+          "target_num": 10,
+          "reward_item": "Gold",
+          "reward_num": 100000,
+          "is_done": false
+        },
+        {
+          "id": "task_w_defeat_2",
+          "name": "每周任务·破敌 其二",
+          "category": "weekly",
+          "describe": "累计击败20次Boss",
+          "pre_task": "task_w_defeat_1",
+          "listen_msg": "defeat boss",
+          "target_num": 20,
+          "reward_item": "Gold",
+          "reward_num": 200000,
+          "is_done": false
+        },
+        {
+          "id": "task_w_login_1",
+          "name": "每周任务·巡营 其一",
+          "category": "weekly",
+          "describe": "累计登录1日",
+          "pre_task": "task_w_001",
+          "listen_msg": "first login",
+          "target_num": 1,
+          "reward_item": "Diamond",
+          "reward_num": 20,
+          "is_done": false
+        },
+        {
+          "id": "task_w_login_2",
+          "name": "每周任务·巡营 其二",
+          "category": "weekly",
+          "describe": "累计登录3日",
+          "pre_task": "task_w_login_1",
+          "listen_msg": "first login",
+          "target_num": 3,
+          "reward_item": "Diamond",
+          "reward_num": 50,
+          "is_done": false
+        },
+        {
+          "id": "task_w_login_3",
+          "name": "每周任务·巡营 其三",
+          "category": "weekly",
+          "describe": "累计登录5日",
+          "pre_task": "task_w_002",
+          "listen_msg": "first login",
+          "target_num": 5,
+          "reward_item": "Diamond",
+          "reward_num": 20,
+          "is_done": false
+        },
+        {
+          "id": "task_w_login_4",
+          "name": "每周任务·巡营 其四",
+          "category": "weekly",
+          "describe": "累计登录7日",
+          "pre_task": "task_w_003",
+          "listen_msg": "first login",
+          "target_num": 7,
+          "reward_item": "Diamond",
+          "reward_num": 100,
+          "is_done": false
+        }
+      ],
+      "achievement": [],
+      "notes": "注释：成就系统是否独立出任务系统暂且待定。"
+    }
+  }
+}

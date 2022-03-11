@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "monsters",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "monsters": [
+      {
+        "id": "Dryad",
+        "arms": "Dryad",
+        "category": "mst",
+        "atkEff": "default_atk_particle",
+        "hitEff": "default_hit_particle",
+        "skill_name": "default",
+        "skillEff": "default_skill_particle",
+        "base_hp": 2000,
+        "base_atk": 200,
+        "base_def": 280,
+        "grow_rate": {
+          "hp": 20,
+          "atk": 1,
+          "def": 3
+        }
+      },
+      {
+        "id": "Gargoyle",
+        "arms": "Gargoyle",
+        "category": "mst",
+        "atkEff": "default_atk_particle",
+        "hitEff": "default_hit_particle",
+        "skill_name": "default",
+        "skillEff": "default_skill_particle",
+        "base_hp": 1000,
+        "base_atk": 150,
+        "base_def": 100,
+        "grow_rate": {
+          "hp": 10,
+          "atk": 1,
+          "def": 1
+        }
+      },
+      {
+        "id": "Ghost_dragon",
+        "arms": "Ghost_dragon",
+        "category": "elite",
+        "atkEff": "default_atk_particle",
+        "hitEff": "default_hit_particle",
+        "skill_name": "default",
+        "skillEff": "default_skill_particle",
+        "base_hp": 4000,
+        "base_atk": 300,
+        "base_def": 250,
+        "grow_rate": {
+          "hp": 40,
+          "atk": 3,
+          "def": 2
+        }
+      },
+      {
+        "id": "Puck",
+        "arms": "Puck",
+        "category": "boss",
+        "atkEff": "default_atk_particle",
+        "hitEff": "default_hit_particle",
+        "skill_name": "default",
+        "skillEff": "default_skill_particle",
+        "base_hp": 5000,
+        "base_atk": 250,
+        "base_def": 380,
+        "grow_rate": {
+          "hp": 50,
+          "atk": 2,
+          "def": 3
+        }
+      },
+      {
+        "id": "Wraith",
+        "arms": "Wraith",
+        "category": "elite",
+        "atkEff": "default_atk_particle",
+        "hitEff": "default_hit_particle",
+        "skill_name": "default",
+        "skillEff": "default_skill_particle",
+        "base_hp": 2000,
+        "base_atk": 280,
+        "base_def": 200,
+        "grow_rate": {
+          "hp": 20,
+          "atk": 3,
+          "def": 2
+        }
+      }
+    ]
+  }
+}

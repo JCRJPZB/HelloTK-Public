@@ -1,0 +1,3402 @@
+{
+  "E:\\GitHub\\HelloTK\\assets\\Animation": {
+    "time": 1646870566000,
+    "uuid": "a81c542d-d13f-4438-bed1-8cda3433555d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material": {
+    "time": 1646870566000,
+    "uuid": "c77132c1-4d9c-40d9-8b7e-1d5792da0caa",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model": {
+    "time": 1646870566000,
+    "uuid": "f06bc3f3-59a8-412a-a11f-ea670a3e1422",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab": {
+    "time": 1646870566000,
+    "uuid": "a637579d-5f29-48a6-8cc0-cdae26344799",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene": {
+    "time": 1646870566000,
+    "uuid": "96ca428c-ae21-43aa-969d-75e9de40623c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script": {
+    "time": 1646870566000,
+    "uuid": "57700f93-5e05-42b2-b29b-2505f5bfb7b7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture": {
+    "time": 1646870566000,
+    "uuid": "7ac8c6e6-2d20-4eb8-92c6-485d32532b0d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources": {
+    "time": 1646870566000,
+    "uuid": "389e4ba3-93e5-49ae-96d2-4c00dbf7ec53",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Animation\\Loading.anim": {
+    "time": 1646870566000,
+    "uuid": "0be2ae0d-cd18-4ba5-a4e5-6385696065f1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Attack": {
+    "time": 1646870566000,
+    "uuid": "3f32a682-4f54-4b3e-9e15-54ff127fa15a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Battlefield": {
+    "time": 1646870566000,
+    "uuid": "5445aaaa-b781-4956-89ab-b18371dc4bf8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Floor": {
+    "time": 1646870566000,
+    "uuid": "8a4b6eea-cf93-4fd5-ae54-9e5c4337bbac",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage": {
+    "time": 1646870566000,
+    "uuid": "087c4be3-5c89-4a48-a3b7-f33bba2a0d0e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Test_Material.mtl": {
+    "time": 1646870566000,
+    "uuid": "b56686fa-636c-4b57-950a-57c1e6c2667d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Heros": {
+    "time": 1646870566000,
+    "uuid": "5095ef75-c684-47e8-aceb-0a4172a9ab02",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters": {
+    "time": 1646870566000,
+    "uuid": "74c06af2-17dc-4c62-8cd7-255993ee5326",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers": {
+    "time": 1646870566000,
+    "uuid": "a8cac75d-d98a-4e28-994e-14eef325803b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\point.FBX": {
+    "time": 1646870566000,
+    "uuid": "40f199b6-04f2-41d8-94cb-d0609cb928f6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks": {
+    "time": 1646870566000,
+    "uuid": "23534473-dd3b-46c4-884a-8aad661c94ac",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros": {
+    "time": 1646870566000,
+    "uuid": "d17f0bff-1773-4d4c-8dbc-7e7d4337a08c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers": {
+    "time": 1646870566000,
+    "uuid": "cc8f86ef-7b24-4f44-b1a9-0146bdfbaf3b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Skills": {
+    "time": 1646870566000,
+    "uuid": "25a767cc-a370-4870-b4a2-49dfb411a4c9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers": {
+    "time": 1646870566000,
+    "uuid": "fb112d93-62a0-4dfe-8b59-3dc862f2bc84",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI": {
+    "time": 1646870566000,
+    "uuid": "6682a26b-7786-4453-8f1e-14a3b5c0be42",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Loading.scene": {
+    "time": 1646870566000,
+    "uuid": "eba3285f-aefe-49cf-bd61-b81b269fdea2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Test.scene": {
+    "time": 1646870620000,
+    "uuid": "6ea3c53d-d8ab-4b9c-8fa3-3888946e1da7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\BattleField.scene": {
+    "time": 1646870576000,
+    "uuid": "62238fad-34ea-489d-bb1d-039c28ade906",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Expedition.scene": {
+    "time": 1646870576000,
+    "uuid": "9d22083c-336c-42ed-8e2c-fb85538cdc60",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Main.scene": {
+    "time": 1646870576000,
+    "uuid": "f6d1120c-e8fd-4ef0-8397-cea5f175e899",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\StartScene.scene": {
+    "time": 1646870576000,
+    "uuid": "e734ea3b-0603-44fd-add1-8f7bff5970d0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField": {
+    "time": 1646870566000,
+    "uuid": "16516a9c-7075-4fe4-8a55-115c5ba27d36",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Error": {
+    "time": 1646870566000,
+    "uuid": "32d74e98-1a44-4fdb-806c-ddfd31b39e12",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros": {
+    "time": 1646870566000,
+    "uuid": "f2f258e2-2001-4077-bff1-e28c7695c7b9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items": {
+    "time": 1646870566000,
+    "uuid": "3c914b67-4d5d-45df-8dd0-6c84e57eac16",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork": {
+    "time": 1646870566000,
+    "uuid": "605d531f-6d17-4167-8e77-1102976aec18",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Player": {
+    "time": 1646870566000,
+    "uuid": "fae608ce-7856-4670-ba27-dc5c915763b3",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Spirit": {
+    "time": 1646870566000,
+    "uuid": "2b673847-2b08-4b7a-8310-ba6c305e5cb4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene": {
+    "time": 1646870566000,
+    "uuid": "9d34b2ef-a68b-4daf-bcfe-c3e484234a88",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools": {
+    "time": 1646870566000,
+    "uuid": "043e7f28-dafd-4be5-b7f2-2814f2ee5eeb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI": {
+    "time": 1646870566000,
+    "uuid": "3b73ede9-d517-4d77-ad5a-f91a0cec8a13",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Attack": {
+    "time": 1646870566000,
+    "uuid": "7e31c542-0ad9-4b1b-9b4d-9b072c9ed547",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg": {
+    "time": 1646870566000,
+    "uuid": "7c1e4a73-3acb-419c-8e1c-4d1144748258",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas": {
+    "time": 1646870566000,
+    "uuid": "9df03f54-40f7-4097-94a6-5e2016593d8d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Flag": {
+    "time": 1646870566000,
+    "uuid": "17439d4b-a97e-4799-acad-2e5fa3faeacc",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Floor": {
+    "time": 1646870566000,
+    "uuid": "f44e44f8-b762-430b-bd8e-d8bdad2355d4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font": {
+    "time": 1646870566000,
+    "uuid": "bb1233e4-c45d-45f7-ab87-faa93696dfa7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\SkyBox": {
+    "time": 1646870566000,
+    "uuid": "5d550a6a-2f44-4032-87bf-d5129a1972d0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config": {
+    "time": 1646870566000,
+    "uuid": "6dcb58b8-c714-4dde-b4dd-8798fd9f04fc",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Attack\\default_atk.mtl": {
+    "time": 1646870566000,
+    "uuid": "c1b03977-8181-47a9-9756-f0b8fa499418",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Attack\\default_hit.mtl": {
+    "time": 1646870566000,
+    "uuid": "1b4b6d83-5f82-497a-85dd-770873d28083",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Battlefield\\Floor_test.mtl": {
+    "time": 1646870566000,
+    "uuid": "6836a632-f3df-4195-8d82-d57ff706467e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Floor\\Floor_001.mtl": {
+    "time": 1646870566000,
+    "uuid": "4c797a68-2765-4fbb-99b0-d1b9abbcd99a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Floor\\Floor_002.mtl": {
+    "time": 1646870566000,
+    "uuid": "003099c5-0f10-4939-88a9-e718938e55c6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\StageMap.mtl": {
+    "time": 1646870566000,
+    "uuid": "3bc1635a-549c-4436-a81f-f5226eb8296a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\Stage_disable.mtl": {
+    "time": 1646870566000,
+    "uuid": "adc4c0ca-163d-49e9-854a-794c14f811b1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\Stage_enable.mtl": {
+    "time": 1646870566000,
+    "uuid": "9d26f88b-2caf-4e1c-9a5d-1058aed43fb6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\Stage_selected.mtl": {
+    "time": 1646870566000,
+    "uuid": "23a7392d-d039-4f93-839d-d7abff725402",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Heros\\general.FBX": {
+    "time": 1646870566000,
+    "uuid": "b1339a1a-382e-4b89-b2ec-d2f09aa9609b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\dryad.FBX": {
+    "time": 1646870566000,
+    "uuid": "fa6d1e2e-32a0-483b-91e6-c13c955fcc92",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\gargoyle.FBX": {
+    "time": 1646870566000,
+    "uuid": "bf694478-6657-4131-8584-f57f721c4495",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\ghost_dragon.FBX": {
+    "time": 1646870566000,
+    "uuid": "0a304cbc-4ec3-4d5e-b3dc-2ff375e14f17",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\puck.FBX": {
+    "time": 1646870566000,
+    "uuid": "51c1d5f5-dae1-47b6-898e-630fe7be4baa",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\wraith.FBX": {
+    "time": 1646870566000,
+    "uuid": "5b6bbbd8-411a-4c3d-9462-f92c2f491bb2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers\\archer.FBX": {
+    "time": 1646870566000,
+    "uuid": "0aa3e06d-3be0-40b9-bb9a-c4707e7a1477",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers\\cavalry.FBX": {
+    "time": 1646870566000,
+    "uuid": "2dd85d68-e811-4e4a-a8cd-5ced4602be3a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers\\infantry.FBX": {
+    "time": 1646870566000,
+    "uuid": "f17f25f9-40ce-4500-9966-068158e76168",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks\\default": {
+    "time": 1646870566000,
+    "uuid": "a599dfea-7dda-4a19-80da-b2a278436ceb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\General_001.prefab": {
+    "time": 1646870566000,
+    "uuid": "f8925c11-811e-4598-b4a8-fa77accac47d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\General_002.prefab": {
+    "time": 1646870566000,
+    "uuid": "3bc807a0-87c2-4c02-a889-e4b2784c0fba",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\Hero_2D.prefab": {
+    "time": 1646870566000,
+    "uuid": "ab71c503-aec1-471b-a8dd-535e2169c6c0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\Hero_3D.prefab": {
+    "time": 1646870566000,
+    "uuid": "a336e9bb-b229-4ab5-99ac-3b0fb6a56008",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\Hero_portrait.prefab": {
+    "time": 1646870566000,
+    "uuid": "26f0c435-6e0a-43a4-a55e-e74dbe558eec",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\HpNum.prefab": {
+    "time": 1646870566000,
+    "uuid": "c6f805c3-a5d0-4c71-bd74-9a80ab81059f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Dryad.prefab": {
+    "time": 1646870566000,
+    "uuid": "74c7267f-8dda-4dc3-8701-bbe799fd158e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Gargoyle.prefab": {
+    "time": 1646870566000,
+    "uuid": "5a4dbbeb-3b6b-4207-84db-d53bf4be71e0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Ghost_dragon.prefab": {
+    "time": 1646870566000,
+    "uuid": "dec0b9cb-ccc4-4c3a-aa9d-3ea9490ebcc6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Puck.prefab": {
+    "time": 1646870566000,
+    "uuid": "9b9a8549-9630-4131-a02a-38f6b7d0eebe",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Wraith.prefab": {
+    "time": 1646870566000,
+    "uuid": "78f23f90-3d61-4ce8-9124-7a63fe3edd16",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Skills\\default_skill_particle.prefab": {
+    "time": 1646870566000,
+    "uuid": "78d4bd23-7db0-4d50-9028-3a6a2e8d1127",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers\\Archer_Lv1.prefab": {
+    "time": 1646870566000,
+    "uuid": "5b22df20-331e-4dfb-8821-be96002461e1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers\\Cavalry_Lv1.prefab": {
+    "time": 1646870566000,
+    "uuid": "1115b24b-e394-4a78-9cf8-8d10e445ca15",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers\\Infantry_Lv1.prefab": {
+    "time": 1646870566000,
+    "uuid": "e00efe4d-45b2-4cca-a2d7-ca36251c7344",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Alert": {
+    "time": 1646870566000,
+    "uuid": "ef1e3f6c-3be5-45b7-8c7b-0a5efb00dc0e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item": {
+    "time": 1646870566000,
+    "uuid": "32ed1602-d6b0-4c55-a97b-73a06a427207",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number": {
+    "time": 1646870566000,
+    "uuid": "71be369d-9778-4fe2-be9a-139624988403",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene": {
+    "time": 1646870576000,
+    "uuid": "8f5a9f64-a31f-420f-b2ac-b444a0c023ff",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow": {
+    "time": 1646870576000,
+    "uuid": "156bcdab-42a3-471d-b6a6-12130a145855",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\MainScene": {
+    "time": 1646870576000,
+    "uuid": "f4689f81-d142-4f11-bc1f-17b43edda475",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene": {
+    "time": 1646870576000,
+    "uuid": "58ef3863-380e-4e77-82fc-a754d76d1477",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene": {
+    "time": 1646870576000,
+    "uuid": "c7d76ff4-24e7-461d-abab-bca0e4c13e3a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack": {
+    "time": 1646870566000,
+    "uuid": "afb85254-58dd-4f89-967b-45169888d304",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\HP": {
+    "time": 1646870566000,
+    "uuid": "0b25bfed-1905-4e8b-a520-3aeda0455fc8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Monster": {
+    "time": 1646870566000,
+    "uuid": "b5ab91b3-f9c8-4a2c-bf94-68cc649e8d6f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattleFieldMaker.ts": {
+    "time": 1646903928000,
+    "uuid": "bd906fea-c8ec-4527-8c11-9f25b5543dfb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattlePage.ts": {
+    "time": 1646870576000,
+    "uuid": "3f32b150-3929-4164-9a39-dcc2bb5b7730",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattlePauseMenu.ts": {
+    "time": 1646870576000,
+    "uuid": "2e1c8188-dd08-429d-b33f-6191cc38c552",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattleResult.ts": {
+    "time": 1647003114000,
+    "uuid": "88774e1e-6619-4d0e-b9aa-e65c5c40029b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattleScene.ts": {
+    "time": 1647002048000,
+    "uuid": "54e71bdf-290d-4821-bb80-dd3f3eac5b4b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Error\\BasicException.ts": {
+    "time": 1646870566000,
+    "uuid": "8bd04ab2-c4dc-494f-9744-6341a7a6d572",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Error\\UserException.ts": {
+    "time": 1646870566000,
+    "uuid": "1fb575ec-57b2-44a8-b11e-d8713f902eb6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation": {
+    "time": 1646870566000,
+    "uuid": "08d5735c-a79d-4c59-a06a-f8a0cdeae7db",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\HerosMgr.ts": {
+    "time": 1646870566000,
+    "uuid": "5557e550-983f-4016-8d68-c315c74f55ee",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items\\Item.ts": {
+    "time": 1646870576000,
+    "uuid": "ea3cc1ce-92c0-4ab8-84cb-ac6e299171ae",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items\\ItemBrowser.ts": {
+    "time": 1647002610000,
+    "uuid": "51ab46fe-942e-4d2c-88e7-d295286b2e19",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items\\ItemMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "2bef4c9d-aa31-49a9-b3bb-123c7d18a914",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\MD5.ts": {
+    "time": 1646870566000,
+    "uuid": "25a71383-cdc7-48ad-b441-cacfbdfd5add",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\Json2Exc.ts": {
+    "time": 1646870576000,
+    "uuid": "689c3672-db8c-4227-af93-adf29177a23b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\LoginMsg.ts": {
+    "time": 1646870576000,
+    "uuid": "1baf6b71-2e78-4d24-8186-c03e8301308d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\NetWork.ts": {
+    "time": 1646870576000,
+    "uuid": "71db5db6-068b-42ff-9ac0-fea2ca2868e3",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Player\\PlayerMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "a4588011-20a6-44a1-b34b-f34fb997b8b9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Spirit\\SpiritMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "10018691-23d8-4899-a08b-e0c671775985",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\Loading.ts": {
+    "time": 1646870952000,
+    "uuid": "2c163af4-ad01-4ce6-8183-defcf87081d1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\SignUp.ts": {
+    "time": 1646903928000,
+    "uuid": "0521d8df-cf98-4f92-91ce-1303576ef59b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\StartPage.ts": {
+    "time": 1646903928000,
+    "uuid": "c951a62a-3821-4d30-b649-8058f37d9131",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\StartScene.ts": {
+    "time": 1646870576000,
+    "uuid": "66392b95-2b33-4bb3-8ca7-74e2e2fd4c21",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\AlertLbl.ts": {
+    "time": 1646870566000,
+    "uuid": "0238608b-fc83-4013-a446-238608ad3f5d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\RenderModel2UI.ts": {
+    "time": 1646870566000,
+    "uuid": "018aa548-394e-4f7c-bd90-14330989f651",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Configure.ts": {
+    "time": 1646870576000,
+    "uuid": "4a754df0-3725-48d8-ab83-c44a67586e06",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Err.ts": {
+    "time": 1646870576000,
+    "uuid": "620e1aa6-c571-4915-98ed-bbcd9d204520",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Functions.ts": {
+    "time": 1646870576000,
+    "uuid": "8af06a5e-0f5c-41c2-924d-0659dba20089",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\GameMgr.ts": {
+    "time": 1647002984000,
+    "uuid": "27951ed0-7d73-4c83-80b7-c5b6a1f8bfa0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Generator.ts": {
+    "time": 1646870576000,
+    "uuid": "c1bdb2d9-a9f2-4662-9285-fa80e9898ff7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\ImgMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "86029451-68c5-4db8-a6c7-702329b9664d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\MoveCamera.ts": {
+    "time": 1646870576000,
+    "uuid": "27abe623-2643-4adc-8705-46af1c452b26",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\ResMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "0ef4654d-75dc-494a-a9d0-d32f2b627e72",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\SceneMgr.ts": {
+    "time": 1646870920000,
+    "uuid": "31798f55-3131-402d-bd77-a03a1944a232",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\ShowNum.ts": {
+    "time": 1646870576000,
+    "uuid": "ca895859-0f47-428a-b2a3-97c1a1500527",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Subscribe.ts": {
+    "time": 1646870576000,
+    "uuid": "c7475488-f8be-40a5-994a-cf2ad604283c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\TouchScreen.ts": {
+    "time": 1646870576000,
+    "uuid": "4841d25e-cd78-4e0d-bf35-30a72d441899",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene": {
+    "time": 1646870576000,
+    "uuid": "0d8450f7-f915-4313-ade2-e96ef61e9b32",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene": {
+    "time": 1646870576000,
+    "uuid": "1faa8d06-4549-4938-afb6-40995cb49bb0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\UIBase.ts": {
+    "time": 1646870576000,
+    "uuid": "2aca9b96-9f66-47e3-a66b-1a796697e068",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\UIContainer.ts": {
+    "time": 1646870576000,
+    "uuid": "bb47fb3f-0852-4d2a-8164-927abe8fe8f8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\UIMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "bdce9f09-7373-41c1-931a-7a57d3cf38f2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Attack\\default_atk.png": {
+    "time": 1646870566000,
+    "uuid": "552b254d-5b4b-4809-b1d8-3e4e1665a0d7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Attack\\default_hit.png": {
+    "time": 1646870566000,
+    "uuid": "577655d7-412c-4840-9561-77a2fd3405c2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Inf_Dusk.jpg": {
+    "time": 1646870566000,
+    "uuid": "12b02536-6b0f-422c-b8d8-1be25cbac203",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Inf_daytime.jpg": {
+    "time": 1646870566000,
+    "uuid": "f36107bb-8777-4344-ace0-3a0643cf45d6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Inf_night.jpg": {
+    "time": 1646870566000,
+    "uuid": "2fba2771-da1d-41ac-a238-c628f6572622",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_PvP_daytime.jpg": {
+    "time": 1646870566000,
+    "uuid": "a378a608-4283-4e85-bbd6-e4f560c34c19",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_PvP_dust.jpg": {
+    "time": 1646870566000,
+    "uuid": "5a85e5db-482c-4100-bc32-3b30e5b35a21",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_PvP_night.jpg": {
+    "time": 1646870566000,
+    "uuid": "c5a1bd08-dd77-4525-b788-95e763b290a2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Win_daytime.jpg": {
+    "time": 1646870566000,
+    "uuid": "7b593544-8ec1-437d-8da8-5ec103de31c4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Win_dust.jpg": {
+    "time": 1646870566000,
+    "uuid": "73b6e159-d0f8-4949-b95e-33202077f5a8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Win_night.jpg": {
+    "time": 1646870566000,
+    "uuid": "143cb47a-8359-47ff-bb9c-7cbec3a0fa32",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg": {
+    "time": 1646870566000,
+    "uuid": "11d310e5-518e-485c-b03c-9540b4875024",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border": {
+    "time": 1646870566000,
+    "uuid": "98fadf71-261b-4924-84b3-a73183e46753",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn": {
+    "time": 1646870566000,
+    "uuid": "953ec39f-c01d-412b-b78b-2f98fcaa80ed",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item": {
+    "time": 1646870566000,
+    "uuid": "de038700-b4be-48a9-8494-89905f67ef67",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number": {
+    "time": 1646870566000,
+    "uuid": "4582b9a7-ff17-432c-9ca0-a2e6c74e944a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait": {
+    "time": 1646870566000,
+    "uuid": "19d74c0b-8473-4362-a8c1-589b213be154",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon": {
+    "time": 1646870566000,
+    "uuid": "f6fecbe9-837e-439b-aef5-81fc3603d503",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage": {
+    "time": 1646870566000,
+    "uuid": "50ef719e-9ccb-46f7-a0f6-08f82f896c80",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\VS.png": {
+    "time": 1646870566000,
+    "uuid": "c29128a7-8583-425a-8031-600257948b52",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\hero_border.png": {
+    "time": 1646870566000,
+    "uuid": "6776064e-6ab9-489e-b279-6d98b4d90a04",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\hero_border_selected.png": {
+    "time": 1646870566000,
+    "uuid": "97793de1-3852-41f2-9874-6d216ffe71cc",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\hero_empty.png": {
+    "time": 1646870566000,
+    "uuid": "335cd5a1-3bc1-4ad7-9478-840a0fbe4dca",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\icon_fight.png": {
+    "time": 1646870566000,
+    "uuid": "fe7ec83f-3a6a-4bc2-86f4-98aebd01c5c5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\icon_rank.png": {
+    "time": 1646870566000,
+    "uuid": "0f0b11e9-ad2b-4e18-815a-afd4f66ab262",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\league_bg.jpeg": {
+    "time": 1646870566000,
+    "uuid": "bbcae230-ee0a-44ff-9698-9116fb082bfc",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\parchment.png": {
+    "time": 1646870566000,
+    "uuid": "b3275b49-b93f-47dc-9570-460d111ff710",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\point.png": {
+    "time": 1646870566000,
+    "uuid": "0ae48c86-ded2-46a6-9cd7-59a6a50aac86",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\point_disable.png": {
+    "time": 1646870566000,
+    "uuid": "51b2ba3f-9882-4883-b943-8657c7f6ec78",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\return.png": {
+    "time": 1646870566000,
+    "uuid": "2f72e6fa-656c-4fbd-ae88-e28ab9eb631b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\separator.png": {
+    "time": 1646870566000,
+    "uuid": "4ff70305-63e7-433f-b14b-18053953db62",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_disable.png": {
+    "time": 1646870566000,
+    "uuid": "ed50ddd6-341d-47df-9ad3-ac7b5c4494d4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_enable.png": {
+    "time": 1646870566000,
+    "uuid": "7558fc58-4297-4b4f-9c33-2c22a767bd7d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_uper_1.png": {
+    "time": 1646870566000,
+    "uuid": "7e7b16f7-6726-487e-a391-5d45d6878bb4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_uper_2.png": {
+    "time": 1646870566000,
+    "uuid": "e7f8e444-75e9-43fc-8ac5-1101f872c11c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\timer_bar.png": {
+    "time": 1646870566000,
+    "uuid": "0869441d-5e4e-4794-a3f7-ff5bb0b9e74d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\timer_slot.png": {
+    "time": 1646870566000,
+    "uuid": "84003c1b-d2ba-46ee-809e-22cfd6fca165",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\title_bg.png": {
+    "time": 1646870566000,
+    "uuid": "16cd37e5-c1c7-42ba-b8f0-569dbf81c639",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\title_bg_2.png": {
+    "time": 1646870566000,
+    "uuid": "daa4c805-71e8-4b85-8dde-547fb1792ea8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\v_progressbar_bar.png": {
+    "time": 1646870566000,
+    "uuid": "2fc68412-e4fd-4cc8-9cb9-b31e043869aa",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\v_progressbar_frame.png": {
+    "time": 1646870566000,
+    "uuid": "7f3c522e-88c5-4e5d-99da-6b6ff511abc5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Flag\\default_league_flag.png": {
+    "time": 1646870566000,
+    "uuid": "4262a2e0-7130-4043-b273-eaa1eda75da8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Floor\\Floor_001.png": {
+    "time": 1646870566000,
+    "uuid": "48fc6476-ba52-4b27-a560-b4046ae0b155",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Floor\\Floor_002.png": {
+    "time": 1646870566000,
+    "uuid": "7ec068e8-600a-4e14-8de6-ad108ac0f2c6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Black.fnt": {
+    "time": 1646870566000,
+    "uuid": "b73df516-125e-41a2-ad1a-8ee1d5de62de",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Black_0.png": {
+    "time": 1646870566000,
+    "uuid": "3b67e30c-ef08-4d91-b599-d1e69ff4f7d2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Score.fnt": {
+    "time": 1646870566000,
+    "uuid": "2b00dc41-8b5c-40bb-9d85-3434a1ea97e1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Score.png": {
+    "time": 1646870566000,
+    "uuid": "90a23521-5815-44df-ac9e-615d09f2bdbb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\White.fnt": {
+    "time": 1646870566000,
+    "uuid": "e69417bd-c788-4e08-993c-d87e7611ae58",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\White_0.png": {
+    "time": 1646870566000,
+    "uuid": "0e1f080b-354a-4c9a-8630-ab338cb5ea2d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\SkyBox\\skybox.jpg": {
+    "time": 1646870566000,
+    "uuid": "d6746fe6-63b7-46ae-8229-0c0295672386",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\SkyBox\\sunnySkyBox.jpg": {
+    "time": 1646870566000,
+    "uuid": "5af201b5-5951-4e2c-a81f-ac4aad9132cb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\alert.json": {
+    "time": 1646870566000,
+    "uuid": "1cc994c1-a2c8-43da-9b26-a35bd6f913f4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\base.json": {
+    "time": 1646870566000,
+    "uuid": "b4cb4341-c29e-4b92-aa28-68944910d2f7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\bundle_list.json": {
+    "time": 1646870566000,
+    "uuid": "2a80f23b-e327-491a-8ae7-65c17eda56af",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\items.json": {
+    "time": 1646870566000,
+    "uuid": "ffb6e6c7-3ddb-488a-aa36-aa5eeb920f41",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\soldier.json": {
+    "time": 1646870566000,
+    "uuid": "d8b1781a-316b-4ca9-b9b2-276e208151e0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\stage.json": {
+    "time": 1647002048000,
+    "uuid": "df360b3f-92f3-46a0-8417-821f7a679890",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\texture.json": {
+    "time": 1646870566000,
+    "uuid": "6c898399-2814-4e85-ae4e-e7f3db6ec88c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\hero.json": {
+    "time": 1646870576000,
+    "uuid": "7f043db8-118c-4204-904f-1e42a49a00f6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\monsters.json": {
+    "time": 1646870576000,
+    "uuid": "1120e682-def8-4cd3-baef-33b7f6e33505",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\start_scene.json": {
+    "time": 1646870576000,
+    "uuid": "586abfdd-b47e-4ac3-82a1-82685d33dc47",
+    "missing": true
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\task.json": {
+    "time": 1647002048000,
+    "uuid": "26264d96-af23-41ab-8ceb-0de4097b05e3",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\ui.json": {
+    "time": 1646870576000,
+    "uuid": "8a6107d1-7009-47ba-a6eb-3c879ac84eb9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks\\default\\default_atk_particle.prefab": {
+    "time": 1646870566000,
+    "uuid": "74022ee8-8b01-4d58-86e0-cedd40705518",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks\\default\\default_hit_particle.prefab": {
+    "time": 1646870566000,
+    "uuid": "4825f625-0ba4-44ff-bf8b-a11fcd217598",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Alert\\Alert_Label.prefab": {
+    "time": 1646870566000,
+    "uuid": "26bf2261-6992-4301-876c-3f30c29f8799",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Alert\\default_alert.prefab": {
+    "time": 1646870566000,
+    "uuid": "d096a9dd-b896-4adf-be81-f33d92ebf116",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item\\Item.prefab": {
+    "time": 1646870566000,
+    "uuid": "a1cd5351-f6fe-45b3-bab9-91c37bb24ae1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item\\Item_Access.prefab": {
+    "time": 1646870566000,
+    "uuid": "8742c3dc-ae60-4d72-8a8c-7530d4bca1d3",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item\\Item_Browser.prefab": {
+    "time": 1646870566000,
+    "uuid": "c5cc3600-c16b-4333-9df2-c246a3527e13",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_0.prefab": {
+    "time": 1646870566000,
+    "uuid": "6ca56f03-e532-41a7-abe6-3ff849e7e588",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_1.prefab": {
+    "time": 1646870566000,
+    "uuid": "9a4a1d37-0be6-48bc-9822-662f5e8fdc91",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_2.prefab": {
+    "time": 1646870566000,
+    "uuid": "f2ec34dd-999a-4f8d-8e72-03d6f7e6d413",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_3.prefab": {
+    "time": 1646870566000,
+    "uuid": "87cefb4c-0575-4fb0-a0ae-b40cd94c536a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_4.prefab": {
+    "time": 1646870566000,
+    "uuid": "1719d413-a60e-4fc2-ba81-ec52e1f13c22",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_5.prefab": {
+    "time": 1646870566000,
+    "uuid": "4aaeaea5-baea-4fba-9ee7-65f646c04155",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_6.prefab": {
+    "time": 1646870566000,
+    "uuid": "545afbd4-ae1e-4213-ba3e-387eab8f049a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_7.prefab": {
+    "time": 1646870566000,
+    "uuid": "d9e5e17f-9b54-42bb-a086-fbb9ca3f98b1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_8.prefab": {
+    "time": 1646870566000,
+    "uuid": "5637f6a9-2d0c-4259-a0ab-763787c42e10",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_9.prefab": {
+    "time": 1646870566000,
+    "uuid": "e45905b6-f7d0-45f4-870e-efbcf6a25216",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Page": {
+    "time": 1646870576000,
+    "uuid": "7f3ba24b-49c3-49dc-958d-068453a3a38d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Window": {
+    "time": 1646870576000,
+    "uuid": "396dff6b-8df9-46c8-ad4b-c31134ed2269",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Formation": {
+    "time": 1646870576000,
+    "uuid": "84382e75-5d65-4434-b7d1-b6beb96d2e85",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList": {
+    "time": 1646870576000,
+    "uuid": "923183d6-8384-4084-b481-93087edcc15e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Inventory": {
+    "time": 1646870576000,
+    "uuid": "4aae1863-633e-489e-ac99-51dc182f796b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League": {
+    "time": 1646870576000,
+    "uuid": "2b57eb0c-e631-4c18-8173-9918452b36db",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Mail": {
+    "time": 1646870576000,
+    "uuid": "e86038de-0ab3-44e7-8446-38ab883558f8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList": {
+    "time": 1646870576000,
+    "uuid": "588b33b1-ef8c-4b4e-89ad-0d8ca3ef46a1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\MainScene\\Page": {
+    "time": 1646870576000,
+    "uuid": "7282a42e-dc8d-4b8f-8da1-15e668cbf5a8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component": {
+    "time": 1646870576000,
+    "uuid": "eb51aee8-523e-439b-9b8e-5d3bf96dbb2e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Page": {
+    "time": 1646870576000,
+    "uuid": "a8c280e0-d66a-4249-97ff-00c4a318d35e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Page": {
+    "time": 1646870576000,
+    "uuid": "2bbfbe06-0706-451e-a312-2a2165d7a0ee",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Window": {
+    "time": 1646870576000,
+    "uuid": "14f61553-8aa6-4e4a-92e1-f63c0cb8f6b9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack\\AtkMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "72b74999-a2d1-4f2f-b114-241eeb3b3c60",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack\\DmgCal.ts": {
+    "time": 1646870576000,
+    "uuid": "ae7b0900-5cf6-4cf6-a34b-0f6cae934272",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack\\Info.ts": {
+    "time": 1646870576000,
+    "uuid": "763ed767-ff5a-44d4-a647-9278cb81ffbb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\HP\\HpMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "3dbc6f99-027d-45c1-b5db-53278a24549a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\HP\\HpNum.ts": {
+    "time": 1646870576000,
+    "uuid": "029f8ed9-85cf-416d-ad75-c1e70bd983c8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Monster\\MonsterMgr.ts": {
+    "time": 1646870566000,
+    "uuid": "2d09e6c0-53ea-4603-8a1c-97615a56f239",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation\\FormationBar.ts": {
+    "time": 1646870566000,
+    "uuid": "f5211e88-512d-4acd-87cb-55a8bf9f95d5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation\\Formation.ts": {
+    "time": 1646870576000,
+    "uuid": "524e578d-4393-410b-8857-029c8590c13c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation\\HeroPortrait.ts": {
+    "time": 1646870576000,
+    "uuid": "3bcafcf6-2e99-43c4-93ad-2e25c383db22",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList": {
+    "time": 1646870576000,
+    "uuid": "2ba78d6d-6fc2-4b74-a641-d583ec366fee",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Inventory": {
+    "time": 1646870576000,
+    "uuid": "bf94e0dc-6613-4e6c-a9e6-6ce19acc6e32",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League": {
+    "time": 1646870576000,
+    "uuid": "ff69753d-a001-4ba3-9d76-70f954591c63",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail": {
+    "time": 1646870576000,
+    "uuid": "f2b9ac9c-4f0d-4cdc-9948-983dd8b699fa",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\MainPage.ts": {
+    "time": 1646870576000,
+    "uuid": "678cbd94-e658-4fb9-bdce-61e4b6ad0bb6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\MainScene.ts": {
+    "time": 1646870952000,
+    "uuid": "367740ab-ffcc-4807-a55b-40607e039d9e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList": {
+    "time": 1646870576000,
+    "uuid": "ea8fbffc-bdd1-4d49-9bc5-14848a88d8ae",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageDetails.ts": {
+    "time": 1647002048000,
+    "uuid": "43514e84-025c-475a-bd27-e7a987a7c667",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageMaker.ts": {
+    "time": 1647002048000,
+    "uuid": "765bcdd8-1bf8-4f63-bb8a-f9847183d6c5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageMgr.ts": {
+    "time": 1647002048000,
+    "uuid": "21b91688-2b65-47ee-8e54-7c374dffd7bf",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StagePage.ts": {
+    "time": 1647002048000,
+    "uuid": "67b52534-ac8e-4b3c-a275-006b8aa1ac11",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StagePoint.ts": {
+    "time": 1647002048000,
+    "uuid": "6f65ecc1-6957-435e-b989-c05c43593981",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageScene.ts": {
+    "time": 1646870576000,
+    "uuid": "80ed32c8-1a77-4a59-84da-8b8c608e88e5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_orange.jpg": {
+    "time": 1646870566000,
+    "uuid": "d44468c5-4336-4319-8ed0-484124ccf5c0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_purple.jpg": {
+    "time": 1646870566000,
+    "uuid": "259f36b0-6044-4cfb-9710-7c04994d220b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_red.jpg": {
+    "time": 1646870566000,
+    "uuid": "4d4bcb04-e6a8-466b-9c44-7a1c5c142457",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_white.jpg": {
+    "time": 1646870566000,
+    "uuid": "5d6484fb-4aae-45dd-817a-708cd6ed7a87",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_main_btns.png": {
+    "time": 1646870566000,
+    "uuid": "76f2c9a8-9617-414b-8e4e-cf5798bdca7a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_panel_blue.png": {
+    "time": 1646870566000,
+    "uuid": "0a5be82a-6d2e-42a8-9847-afb85702755a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_panel_red.png": {
+    "time": 1646870566000,
+    "uuid": "d9b0f23b-2e57-4b15-9a29-fde33d27ba32",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_panel_wood.png": {
+    "time": 1646870566000,
+    "uuid": "9b925dbf-a7fd-4114-95f0-53c2b129977b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_wood.png": {
+    "time": 1646870566000,
+    "uuid": "ac493e33-265c-40d6-981e-507636613d73",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_wood_circle.png": {
+    "time": 1646870566000,
+    "uuid": "7b24fba6-374b-4473-a37b-22a1b6c5f270",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\black.png": {
+    "time": 1646870566000,
+    "uuid": "624bb6a2-a019-4ed5-add6-0e2d1c14fab6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\hero_bg.jpeg": {
+    "time": 1646870566000,
+    "uuid": "7dc39057-ff6a-4db8-a4e1-3195f2c4aa0f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\white.png": {
+    "time": 1646870566000,
+    "uuid": "34382fc2-93f6-4841-9c23-7a3daa8d9ca7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame.png": {
+    "time": 1646870566000,
+    "uuid": "ede380d3-8f1b-412d-9a04-e9734e7ca3d4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_2.png": {
+    "time": 1646870566000,
+    "uuid": "ccaad2ee-efdc-4a6f-a094-74bebe0ece18",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_orange.png": {
+    "time": 1646870566000,
+    "uuid": "0b34cfa3-f2bf-48a8-9ffa-ca3d5b2d337f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_purple.png": {
+    "time": 1646870566000,
+    "uuid": "6e1bf85d-11a3-4e99-a0fc-f679462767c7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_red.png": {
+    "time": 1646870566000,
+    "uuid": "bf69e5d5-3042-47c9-ace4-6a627441e6e7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_white.png": {
+    "time": 1646870566000,
+    "uuid": "43240561-a70b-427f-8602-5169afa42c54",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_orange.png": {
+    "time": 1646870566000,
+    "uuid": "0fc31e82-dbcd-435e-b423-0ed71ad0d46b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_purple.png": {
+    "time": 1646870566000,
+    "uuid": "0aa168ae-4c07-4295-b770-ca3f4a34709a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_red.png": {
+    "time": 1646870566000,
+    "uuid": "b0f8cba2-010d-49ea-8487-b645038b63a4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_white.png": {
+    "time": 1646870566000,
+    "uuid": "87180d7c-d0d6-4bc8-9210-76e2c94f0d79",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\bg_frame.png": {
+    "time": 1646870566000,
+    "uuid": "6c086125-9eb3-4dad-8980-42974c2b38aa",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\Exit.png": {
+    "time": 1646870566000,
+    "uuid": "0d87161b-9e8e-4dcf-89ac-776a86224ba9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\bg_timer.png": {
+    "time": 1646870566000,
+    "uuid": "85ef171f-a1f8-4e1c-b7b5-107b512b94b0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_add.png": {
+    "time": 1646870566000,
+    "uuid": "355ba1f4-c33e-4f9e-bc0f-44380e395f5e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_add_disable.png": {
+    "time": 1646870566000,
+    "uuid": "018d0858-c632-4b14-8746-6b4b0e712f9b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_backpack.png": {
+    "time": 1646870566000,
+    "uuid": "e94f5053-7114-483b-8aec-e3f1f1e97ed2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_blue.png": {
+    "time": 1646870566000,
+    "uuid": "edc94f0c-ed49-4206-8f45-66f74d237074",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_blue_disable.png": {
+    "time": 1646870566000,
+    "uuid": "97e4b345-9e33-4849-8b90-1136004f4a48",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_chuzhan.png": {
+    "time": 1646870566000,
+    "uuid": "be13abdb-3505-4ccf-8b8d-57a534145c97",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_close.png": {
+    "time": 1646870566000,
+    "uuid": "45deaa27-aac2-4115-8085-b7a6a3551989",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_expand_slot.png": {
+    "time": 1646870566000,
+    "uuid": "67b275df-7980-44f1-a9c5-4304471e5767",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_go_to.png": {
+    "time": 1646870566000,
+    "uuid": "00daa89e-b712-443d-8213-c127fcc446ed",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_go_to_disable.png": {
+    "time": 1646870566000,
+    "uuid": "42665d0a-0817-4dd3-ac0c-10e6d1de7966",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_hero.png": {
+    "time": 1646870566000,
+    "uuid": "07f53dd1-06a0-4841-94df-19b4e72570d8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_message.png": {
+    "time": 1646870566000,
+    "uuid": "cf77d919-cfb3-4380-9210-9ae62b0d154f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_panel_paper.png": {
+    "time": 1646870566000,
+    "uuid": "08a84300-703d-49ec-b763-3f54f0c5eecc",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_reduce.png": {
+    "time": 1646870566000,
+    "uuid": "5ffbb795-ae7e-449e-891a-a4a47a85711d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_reduce_disabel.png": {
+    "time": 1646870566000,
+    "uuid": "b5445bcc-d475-4b7b-9fc4-99f7c85be019",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_renwu.png": {
+    "time": 1646870566000,
+    "uuid": "c6502f4a-57f9-49cc-a3b8-fc65cf9e5efe",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_resume.png": {
+    "time": 1646870566000,
+    "uuid": "a50156a9-c257-4d52-95b8-8dfdfa96eec8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_setting.png": {
+    "time": 1646870566000,
+    "uuid": "95975bbf-249f-4490-b621-e5db28e67530",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_sm_red.png": {
+    "time": 1646870566000,
+    "uuid": "ed06ca21-c571-44b4-9cc2-96f98edf78b7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_text.png": {
+    "time": 1646870566000,
+    "uuid": "1ad12fe9-e657-403f-adcd-75f863285e47",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_text_disable.png": {
+    "time": 1646870566000,
+    "uuid": "0777d19e-1326-4906-af32-3904670069fd",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_up.png": {
+    "time": 1646870566000,
+    "uuid": "e4c74fc3-eb10-4702-93bb-4c88213f2baa",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_world_map.png": {
+    "time": 1646870566000,
+    "uuid": "d2e419fe-d48e-4e72-ac3a-6e18c596e60b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Chest.png": {
+    "time": 1646870566000,
+    "uuid": "21c9be76-d2b0-4283-ad25-c80497759b4b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Crystal.png": {
+    "time": 1646870566000,
+    "uuid": "cfb45f89-5930-4b3c-a97a-c5ebd2cf7fcd",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Diamond.png": {
+    "time": 1646870566000,
+    "uuid": "89f7f519-c160-4453-bb75-2777ea15aba1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Energy.png": {
+    "time": 1646870566000,
+    "uuid": "bf3ce91b-4d00-455d-819f-e1a2adedbd94",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Equipment": {
+    "time": 1646870566000,
+    "uuid": "7394823f-a782-4c9b-80b5-7d27ff8191f8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\GiftBox.png": {
+    "time": 1646870566000,
+    "uuid": "2d147ba2-4b0d-4c0c-9cb0-23b868c16450",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Gold.png": {
+    "time": 1646870566000,
+    "uuid": "43e03f57-f8a8-4119-b752-f99cbb4be153",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit": {
+    "time": 1646870566000,
+    "uuid": "f6fae687-391c-46ac-9b1d-647eee5c7068",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Ticket.png": {
+    "time": 1646870566000,
+    "uuid": "da70227e-abca-4140-ae5d-e061f02f0c7d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default": {
+    "time": 1646870566000,
+    "uuid": "701aa93f-7098-471f-9de4-fadaceb7e5f5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero": {
+    "time": 1646870566000,
+    "uuid": "219eae02-7dc5-40a8-9be3-44068b401b81",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster": {
+    "time": 1646870566000,
+    "uuid": "ea61deaa-c7f8-4b7f-8737-f775c6e468a1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Player": {
+    "time": 1646870566000,
+    "uuid": "5d325b23-98a9-4324-87ce-b71804115565",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_earth.png": {
+    "time": 1646870566000,
+    "uuid": "b4d68209-d265-4212-ae62-274197442a5e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_fire.png": {
+    "time": 1646870566000,
+    "uuid": "d4e8bc3c-74de-438b-b82a-5e2b6bba9219",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_water.png": {
+    "time": 1646870566000,
+    "uuid": "eeb1a174-14aa-4b74-b532-b8998db63d33",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_wind.png": {
+    "time": 1646870566000,
+    "uuid": "87987828-acf9-4d83-9461-2b3b50061f7c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\map_001.png": {
+    "time": 1646870566000,
+    "uuid": "8f2a30a0-162b-4b3c-98ec-c53dd217d16a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\parchment.png": {
+    "time": 1646870566000,
+    "uuid": "b725936d-c8c6-4a1d-be18-1e97c2e6c4f8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\stage_disable.png": {
+    "time": 1646870566000,
+    "uuid": "25caa3cb-4556-4d6c-a6ad-da7c7d2b82c4",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\stage_enable.png": {
+    "time": 1646870566000,
+    "uuid": "88e1f683-ce87-4504-a972-f1269707c8ac",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\stage_selected.png": {
+    "time": 1646870566000,
+    "uuid": "cf95853f-deb7-4080-a01d-e5461ce40aea",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Page\\BattlePage.prefab": {
+    "time": 1646870576000,
+    "uuid": "d56755ca-f7ca-4d39-afad-740c9fede4f7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Window\\BattlePauseMenu.prefab": {
+    "time": 1646870576000,
+    "uuid": "de3cf5bd-4936-40dd-8b44-b76f9893fadb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Window\\BattleResult.prefab": {
+    "time": 1646870576000,
+    "uuid": "98f143b8-4966-4ea0-8d81-8b741588d9c6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Formation\\Formation.prefab": {
+    "time": 1646870576000,
+    "uuid": "788ebd52-ccfb-46a1-84e1-e9f66266cb4a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Formation\\Formation_Bar.prefab": {
+    "time": 1646870576000,
+    "uuid": "37d32bf6-4dc9-4270-9f1c-dede84a77452",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroEquip.prefab": {
+    "time": 1646870576000,
+    "uuid": "1d06b136-2d86-4541-b96f-9466077700f7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroInfo.prefab": {
+    "time": 1646870576000,
+    "uuid": "341fce62-73e8-4c7e-859e-15ae06294a73",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroList.prefab": {
+    "time": 1646870576000,
+    "uuid": "f6032c84-de2e-4125-b185-d210576fde77",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroList_Portrait.prefab": {
+    "time": 1646870576000,
+    "uuid": "2cbcf95b-5029-4a7f-8edf-e28ec8deb4b6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroSpirit.prefab": {
+    "time": 1646870576000,
+    "uuid": "b972484d-0754-4934-a7da-e497ab409ba6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\Skill_Describe.prefab": {
+    "time": 1646870576000,
+    "uuid": "03342ff4-522a-4155-97cd-8cfe330613d7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Inventory\\Inventory.prefab": {
+    "time": 1646870576000,
+    "uuid": "6e1f94a1-9c4f-4531-8e12-22674637896a",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Inventory\\Inventory_Category.prefab": {
+    "time": 1646870576000,
+    "uuid": "c4419ccf-233a-4378-880f-166f5d7109d7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\DynamicList.prefab": {
+    "time": 1646870576000,
+    "uuid": "4ba7e08b-bdf2-4905-a721-a0956d49326e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\Dynamics.prefab": {
+    "time": 1646870576000,
+    "uuid": "aca3cdd6-5777-4b66-a915-2cad002060e2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\League.prefab": {
+    "time": 1646870576000,
+    "uuid": "7370bb05-75c2-475e-a439-640f115cb4b9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\LeagueInfo.prefab": {
+    "time": 1646870576000,
+    "uuid": "b0f54b26-b4ea-48ba-8f32-c12be742364c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\LeagueList.prefab": {
+    "time": 1646870576000,
+    "uuid": "a591202e-881b-4b51-986f-2b746fed3570",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\League_Dynamic.prefab": {
+    "time": 1646870576000,
+    "uuid": "b2de87af-9bfa-4bc2-b174-b9853c891b1d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\League_Join.prefab": {
+    "time": 1646870576000,
+    "uuid": "7433cc19-41da-404b-a406-14a2dc82bc59",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Mail\\Mail.prefab": {
+    "time": 1646870576000,
+    "uuid": "61dbe564-a701-4fb5-8ac0-bfb03d38697c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Mail\\Mail_Title.prefab": {
+    "time": 1646870576000,
+    "uuid": "5e5c4ea1-2664-4e1e-a2ce-d465fded8290",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList\\Reward.prefab": {
+    "time": 1646870576000,
+    "uuid": "ac1fc6fa-8756-429b-93f6-782fd6e648ff",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList\\Task.prefab": {
+    "time": 1647002048000,
+    "uuid": "eb0f32f0-5b9e-4eef-865e-ed2fbd8d88e6",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList\\TaskList.prefab": {
+    "time": 1647002990000,
+    "uuid": "52b886c0-2dca-4cbd-a562-fdc0cf492363",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\MainScene\\Page\\MainPage.prefab": {
+    "time": 1646870576000,
+    "uuid": "244351c1-9e01-4177-895c-beb6f1031430",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\ItemPortrait.prefab": {
+    "time": 1647002048000,
+    "uuid": "dd277427-9f9e-4743-b464-d0228412f0a1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\MstPortrait.prefab": {
+    "time": 1646870576000,
+    "uuid": "09aed6a4-65b2-4920-8699-0aa20709594e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_Goal.prefab": {
+    "time": 1646870576000,
+    "uuid": "50df7800-ee62-44c1-af67-0bf66c470548",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_UI.prefab": {
+    "time": 1646870576000,
+    "uuid": "cda537a2-794e-4691-8acf-1bd2bcc79c65",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_UI_L.prefab": {
+    "time": 1646870576000,
+    "uuid": "8cf86da3-8d56-4a14-8c8f-dde9beec936d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_model.prefab": {
+    "time": 1646870576000,
+    "uuid": "2bca30ef-db61-4132-826c-2d435c9b7d3c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Page\\StagePage.prefab": {
+    "time": 1646870576000,
+    "uuid": "ac05731f-a8f3-4bc4-a3d3-1e5723e7e87e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Page\\StartPage.prefab": {
+    "time": 1646903928000,
+    "uuid": "0be9b58a-158e-411f-9d72-9cf0619e718f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Window\\SignUp.prefab": {
+    "time": 1646903928000,
+    "uuid": "248190de-6116-4a02-b03c-ab2ec45670a2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroEquip.ts": {
+    "time": 1646870576000,
+    "uuid": "297ed4f0-c7ae-42df-8786-b9ce5e92a2c5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroInfo.ts": {
+    "time": 1646870576000,
+    "uuid": "c3c3dfa1-b4e8-413d-bc50-9f0bc0d55060",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroList.ts": {
+    "time": 1646870576000,
+    "uuid": "5aa69c17-baaf-4938-a010-17174e0b4885",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroListEquip.ts": {
+    "time": 1646870576000,
+    "uuid": "32ef8869-f076-464c-801a-deaf53a80688",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroListPortrait.ts": {
+    "time": 1646870576000,
+    "uuid": "1601ce30-9c62-41e1-9796-91ab87913c31",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroSpirit.ts": {
+    "time": 1646870576000,
+    "uuid": "28396314-b4a7-44de-b034-dbf5bac42df7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\Model_UI.ts": {
+    "time": 1646870576000,
+    "uuid": "b7c1cc9b-2027-482d-95c9-95e781a86a71",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Inventory\\Inventory.ts": {
+    "time": 1647002940000,
+    "uuid": "5cda56fe-9d5f-426e-bcf1-1b577a589485",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Inventory\\InventoryMgr.ts": {
+    "time": 1647002886000,
+    "uuid": "1eb379c4-b620-4b47-b7b3-89778cdd456d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\DynamicList.ts": {
+    "time": 1646870576000,
+    "uuid": "185bd422-3f70-4433-9bc0-b95537118935",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\League.ts": {
+    "time": 1646870576000,
+    "uuid": "869d5d80-376d-4d18-9f45-0db234c40805",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueInfo.ts": {
+    "time": 1646870576000,
+    "uuid": "7b80c32d-6a48-460a-be1f-50797af3404e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueJoin.ts": {
+    "time": 1646870576000,
+    "uuid": "ee3b54ea-202d-4648-870a-c01e74623011",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueList.ts": {
+    "time": 1646870576000,
+    "uuid": "32de76da-f08e-4eee-997c-133f89d282b9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "1cf41c82-693f-42b5-bb91-b77e3518a4e7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail\\Mail.ts": {
+    "time": 1647002420000,
+    "uuid": "27e7596e-5590-424a-b932-38380712ff2f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail\\MailMgr.ts": {
+    "time": 1646870576000,
+    "uuid": "22db12e1-09a8-4af5-bea1-24e47701ea0e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail\\MailTitle.ts": {
+    "time": 1646870576000,
+    "uuid": "b88d9477-eda5-4f88-aaa1-2aed547ca3ef",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList\\Task.ts": {
+    "time": 1647002048000,
+    "uuid": "6b773735-a487-44bf-b4d9-4facd0212005",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList\\TaskList.ts": {
+    "time": 1647002234000,
+    "uuid": "5662f926-66d0-4671-9848-c7bc52a1e4ed",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList\\TaskMgr.ts": {
+    "time": 1647002048000,
+    "uuid": "59309830-06c4-46d5-bf2f-eec657909348",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Equipment\\weapon_1.png": {
+    "time": 1646870566000,
+    "uuid": "7d34cc69-7d0c-463e-be80-1ba46f14db4e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Equipment\\weapon_2.png": {
+    "time": 1646870566000,
+    "uuid": "667ca1d8-9624-4eae-b36a-93db0d03d5cf",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\1.png": {
+    "time": 1646870566000,
+    "uuid": "abaf3fd9-789b-477b-988b-d441acad87fb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\10.png": {
+    "time": 1646870566000,
+    "uuid": "101294a7-a1dd-40ac-af04-5342eb4970c9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\11.png": {
+    "time": 1646870566000,
+    "uuid": "f5aae5b3-e68e-4d0d-9032-9deaffa88368",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\12.png": {
+    "time": 1646870566000,
+    "uuid": "cc00ee10-5d9e-4d22-80dc-bc0935a65565",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\2.png": {
+    "time": 1646870566000,
+    "uuid": "a502b630-7865-442d-aa77-12e226974d05",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\3.png": {
+    "time": 1646870566000,
+    "uuid": "01129ad5-9ea4-48a9-a5a5-cf890c57070c",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\4.png": {
+    "time": 1646870566000,
+    "uuid": "127f6b0d-96f9-4595-a415-ff5bfc2bdff0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\5.png": {
+    "time": 1646870566000,
+    "uuid": "52f31769-e10f-41df-8678-a003d888a6ba",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\6.png": {
+    "time": 1646870566000,
+    "uuid": "06b164f9-0a0e-4273-bd5b-debaf48809ac",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\7.png": {
+    "time": 1646870566000,
+    "uuid": "c951cd13-3a17-42c0-863c-7f7d5484a8a8",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\8.png": {
+    "time": 1646870566000,
+    "uuid": "c019af35-bd1a-4e64-85d3-de53af389182",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\9.png": {
+    "time": 1646870566000,
+    "uuid": "e78e0f07-fd62-4235-a489-546843353d4d",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\0.png": {
+    "time": 1646870566000,
+    "uuid": "e6e8d118-aee4-4056-ba49-c930fa8546c7",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\1.png": {
+    "time": 1646870566000,
+    "uuid": "f370f54f-d953-4d5d-bf84-db7e4f27ffb1",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\2.png": {
+    "time": 1646870566000,
+    "uuid": "98dac566-e5dc-47fa-accf-a21d8083058f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\3.png": {
+    "time": 1646870566000,
+    "uuid": "b00dfb10-6a55-4a8c-89c7-ff4df64c2262",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\4.png": {
+    "time": 1646870566000,
+    "uuid": "092082f7-c8cd-4a49-a1d7-808561d6b98f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\5.png": {
+    "time": 1646870566000,
+    "uuid": "809ce059-6b14-4b67-a9b5-b7c6bb43a70f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\6.png": {
+    "time": 1646870566000,
+    "uuid": "a4883636-738c-472f-8340-40ab683e95f0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\7.png": {
+    "time": 1646870566000,
+    "uuid": "621a29e7-1baa-4e03-9d54-a656f85a9621",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\8.png": {
+    "time": 1646870566000,
+    "uuid": "cd20bc02-ddef-499d-b143-72cf66f0b905",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\9.png": {
+    "time": 1646870566000,
+    "uuid": "8cb288b5-aa9a-4984-b286-7cb69e9618f2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\CaoCao.png": {
+    "time": 1646870566000,
+    "uuid": "bd71d2a8-f213-4276-b853-56e81f92d220",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\LiuBei.png": {
+    "time": 1646870566000,
+    "uuid": "0c8c51dc-776c-4049-a183-6af86fef9f19",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\LvBu.png": {
+    "time": 1646870566000,
+    "uuid": "3afec5ea-511d-4c24-a61c-65a7debf56fe",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\SunQuan.png": {
+    "time": 1646870566000,
+    "uuid": "9dc885ed-a88c-4e4e-97ac-396f84f6ab17",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\ZhouYu.png": {
+    "time": 1646870566000,
+    "uuid": "c8bef63e-1893-414e-a17c-c173621816b2",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\ZhugeLiang.png": {
+    "time": 1646870566000,
+    "uuid": "bad43cf5-67ed-4b72-a393-96e29b94e34b",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\female.png": {
+    "time": 1646870566000,
+    "uuid": "01705f3f-9233-4de5-a809-cc7af2cb4435",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\17.png": {
+    "time": 1646870566000,
+    "uuid": "224a4dc4-166f-4e4a-80cf-74c71eb276d9",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\18.png": {
+    "time": 1646870566000,
+    "uuid": "71970e45-2019-49bb-9c57-e49383ce648e",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\19.png": {
+    "time": 1646870566000,
+    "uuid": "ede3f70f-9103-4d24-9451-cbf222c0b2ea",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\20.png": {
+    "time": 1646870566000,
+    "uuid": "6a36fadd-9766-4eaa-8aca-c9fac2acbc30",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\21.png": {
+    "time": 1646870566000,
+    "uuid": "9d4b8d60-9e32-43f9-a9f4-d85fbbbca709",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\22.png": {
+    "time": 1646870566000,
+    "uuid": "964a027a-28e8-4ab2-94fa-f97f3b96ad81",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\23.png": {
+    "time": 1646870566000,
+    "uuid": "24440675-de27-441d-a858-82472a2d9d81",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\24.png": {
+    "time": 1646870566000,
+    "uuid": "7f80b319-04a9-4525-be9d-96e0f2aeba84",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\25.png": {
+    "time": 1646870566000,
+    "uuid": "5e71bd19-c7af-44bb-80f9-54142bc66b36",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\26.png": {
+    "time": 1646870566000,
+    "uuid": "3eb8c744-3b02-40b0-8846-cda96bd74352",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\27.png": {
+    "time": 1646870566000,
+    "uuid": "c80311d8-773c-4ea4-8d49-24698cc1b5f5",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\28.png": {
+    "time": 1646870566000,
+    "uuid": "90fa17f3-e229-43ed-a792-e2a9fb5e76e0",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\29.png": {
+    "time": 1646870566000,
+    "uuid": "412edc65-a76f-42f7-b04f-0772df3d05eb",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\30.png": {
+    "time": 1646870566000,
+    "uuid": "6cdf2952-e8d5-4db0-97d4-291eb0ac0d35",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\31.png": {
+    "time": 1646870566000,
+    "uuid": "9ec8e167-f94b-4d38-a9cf-bd9a92228841",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Player\\ic_salamander.png": {
+    "time": 1646870566000,
+    "uuid": "12c45ba2-dec1-4a11-834f-3d4f5532743f",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Player\\ic_shilf.png": {
+    "time": 1646870566000,
+    "uuid": "95dc0223-2ada-428b-9735-99430c661449",
+    "missing": false
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Animation.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Attack.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Battlefield.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Floor.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Heros.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Skills.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Test_Material.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Animation\\Loading.anim.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Loading.scene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Expedition.scene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\BattleField.scene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Error.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Test.scene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Player.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Spirit.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Attack.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\Main.scene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Flag.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Floor.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\SkyBox.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Scene\\StartScene.scene.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Attack\\default_hit.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Attack\\default_atk.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Battlefield\\Floor_test.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Floor\\Floor_001.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Floor\\Floor_002.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\Stage_disable.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\StageMap.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\Stage_enable.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Material\\Stage\\Stage_selected.mtl.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\point.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Heros\\general.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\gargoyle.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\dryad.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\ghost_dragon.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\puck.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks\\default.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\General_001.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\General_002.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\Hero_2D.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\Hero_3D.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\Hero_portrait.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Heros\\HpNum.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Dryad.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Gargoyle.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Ghost_dragon.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Monsters\\wraith.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Puck.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Montsers\\Wraith.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Skills\\default_skill_particle.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers\\Archer_Lv1.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers\\Cavalry_Lv1.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Alert.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\MainScene.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Soldiers\\Infantry_Lv1.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\HP.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Monster.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattleFieldMaker.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattlePage.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattlePauseMenu.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattleResult.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\BattleScene.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Error\\BasicException.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Error\\UserException.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\HerosMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items\\Item.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items\\ItemBrowser.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Items\\ItemMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\MD5.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\Json2Exc.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\LoginMsg.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\NetWork\\NetWork.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Player\\PlayerMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Spirit\\SpiritMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\Loading.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\SignUp.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\StartPage.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\StartScene\\StartScene.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\AlertLbl.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\RenderModel2UI.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Configure.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Err.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Functions.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\GameMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Generator.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\ImgMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers\\archer.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\MoveCamera.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\ResMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\SceneMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\ShowNum.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\Subscribe.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Tools\\TouchScreen.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\UIBase.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\UIContainer.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\UIMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Attack\\default_atk.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Attack\\default_hit.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers\\cavalry.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Inf_Dusk.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Model\\Soldiers\\infantry.FBX.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Inf_daytime.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_PvP_daytime.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Inf_night.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_PvP_dust.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_PvP_night.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Win_dust.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Win_daytime.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Battlefield_bg\\BF_Win_night.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\VS.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\hero_border_selected.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\hero_empty.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\icon_fight.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\hero_border.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\icon_rank.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\point.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\point_disable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\league_bg.jpeg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\parchment.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\return.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\separator.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_disable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_enable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_uper_1.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\star_uper_2.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\timer_slot.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\timer_bar.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\title_bg.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\title_bg_2.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Floor\\Floor_002.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Floor\\Floor_001.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\v_progressbar_bar.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\v_progressbar_frame.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Flag\\default_league_flag.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Black.fnt.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Score.fnt.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Score.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\White.fnt.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\alert.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\base.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\bundle_list.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\Black_0.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\items.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\soldier.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\stage.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\texture.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\hero.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\monsters.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\start_scene.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Font\\White_0.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\task.json.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks\\default\\default_atk_particle.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\SkyBox\\skybox.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\resources\\config\\ui.json.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\Atks\\default\\default_hit_particle.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Alert\\Alert_Label.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item\\Item.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item\\Item_Access.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Alert\\default_alert.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Item\\Item_Browser.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\SkyBox\\sunnySkyBox.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_0.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_1.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_3.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_4.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_2.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_5.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Page.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Window.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Formation.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_6.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Inventory.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_7.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Mail.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\MainScene\\Page.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Page.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Page.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Window.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_8.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\Number\\Num_9.prefab.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack\\AtkMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack\\DmgCal.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Attack\\Info.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\HP\\HpMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\HP\\HpNum.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\BattleField\\Monster\\MonsterMgr.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Inventory.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation\\FormationBar.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation\\Formation.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\Heros\\Formation\\HeroPortrait.ts.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\MainPage.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\MainScene.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageDetails.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageMaker.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageMgr.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StagePage.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StagePoint.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\StageScene\\StageScene.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_white.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_purple.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_red.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\Item_Bg_orange.jpg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_main_btns.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_wood.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_panel_blue.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_panel_red.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_panel_wood.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\bg_wood_circle.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\black.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\white.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_orange.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Bg\\hero_bg.jpeg.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_2.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_purple.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_red.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_orange.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_purple.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Frame_white.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_red.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\Rare_white.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\bg_timer.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\Exit.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Border\\bg_frame.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_add.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_add_disable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_backpack.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_blue.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_blue_disable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_chuzhan.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_close.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_expand_slot.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_go_to.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_go_to_disable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_hero.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_reduce_disabel.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_reduce.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_message.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_panel_paper.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_renwu.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_resume.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_setting.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_sm_red.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_text_disable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_text.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Crystal.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_up.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Equipment.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Chest.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Diamond.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Energy.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\GiftBox.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Player.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Btn\\btn_world_map.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Gold.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Ticket.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_fire.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\map_001.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_water.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_wind.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Skill_Icon\\att_earth.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Page\\BattlePage.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\stage_selected.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Window\\BattlePauseMenu.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\parchment.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\stage_enable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Stage\\stage_disable.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Formation\\Formation.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroEquip.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroInfo.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\BattleScene\\Window\\BattleResult.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Formation\\Formation_Bar.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroList.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroList_Portrait.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\HeroSpirit.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\HeroList\\Skill_Describe.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Inventory\\Inventory.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\League.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\Dynamics.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Inventory\\Inventory_Category.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\DynamicList.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\LeagueInfo.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\LeagueList.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\League_Join.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\League\\League_Dynamic.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Mail\\Mail.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\Mail\\Mail_Title.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList\\Reward.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList\\Task.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\CommonWinow\\TaskList\\TaskList.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\MainScene\\Page\\MainPage.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\ItemPortrait.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\MstPortrait.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_UI_L.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_Goal.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_UI.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Component\\Stage_model.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroEquip.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroInfo.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroList.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StageScene\\Page\\StagePage.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroListEquip.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroListPortrait.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\HeroSpirit.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Page\\StartPage.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Prefab\\UI\\StartScene\\Window\\SignUp.prefab.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\HeroList\\Model_UI.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Inventory\\Inventory.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Inventory\\InventoryMgr.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\DynamicList.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\League.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueInfo.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueJoin.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueList.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\League\\LeagueMgr.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail\\Mail.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail\\MailMgr.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\Mail\\MailTitle.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList\\Task.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList\\TaskList.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Script\\UI\\MainScene\\TaskList\\TaskMgr.ts.meta": {
+    "time": 1646870576000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Equipment\\weapon_2.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\1.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\10.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Equipment\\weapon_1.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\11.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\12.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\2.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\3.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\5.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\4.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\7.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\6.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\0.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\9.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Item\\Spirit\\8.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\2.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\3.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\1.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\4.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\5.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\9.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\7.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\6.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Number\\Default\\8.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\CaoCao.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\LiuBei.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\SunQuan.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\ZhouYu.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\LvBu.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\ZhugeLiang.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\18.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Hero\\female.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\19.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\17.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\20.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\21.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\23.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\22.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\24.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\25.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\26.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\28.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\29.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\27.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\30.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Player\\ic_shilf.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Monster\\31.png.meta": {
+    "time": 1646870566000
+  },
+  "E:\\GitHub\\HelloTK\\assets\\Texture\\Canvas\\Portrait\\Player\\ic_salamander.png.meta": {
+    "time": 1646870566000
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "VerifyKey": "GiUxkEGY4$kf771t",
+    "scale": {
+        "min": 0.3,
+        "max": 2
+    },
+    "camera_move": {
+        "StartScene":{ "enable": false },
+        "Loading": { "enable": false },
+        "Main": {
+            "enable": true,
+            "ray_cast": true,
+            "zoom": true,
+            "max_scale": 1.5,
+            "min_scale": 0.5,
+            "max_x": 50,
+            "min_x": -50,
+            "max_z": 130,
+            "min_z": 30,
+            "start_event": true,
+            "move_event": false,
+            "end_event": true
+        },
+        "Expedition": {
+            "enable": true,
+            "ray_cast": true,
+            "zoom": false,
+            "max_x": 50,
+            "min_x": 0,
+            "max_z": 55,
+            "min_z": 55,
+            "start_event": true,
+            "move_event": false,
+            "end_event": true
+        },
+        "BattleField": { "enable": false }
+    }
+}

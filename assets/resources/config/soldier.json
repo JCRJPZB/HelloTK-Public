@@ -1,0 +1,207 @@
+{
+    "arm_type": [
+        "infantry",
+        "archer",
+        "cavalry"
+    ],
+    "common": {
+        "base_cri_dmg_rate": 1.5,
+        "base_blk_dmg_rate": 0.8,
+        "min_dmg_ratio": 0.05,
+        "max_dmg_ratio": 3.0,
+        "position": [
+            [
+                5,
+                0
+            ],
+            [
+                0,
+                5
+            ],
+            [
+                -5,
+                0
+            ],
+            [
+                0,
+                -5
+            ],
+            [
+                5,
+                5
+            ],
+            [
+                5,
+                -5
+            ],
+            [
+                -5,
+                5
+            ],
+            [
+                -5,
+                -5
+            ]
+        ]
+    },
+    "infantry": [
+        {
+            "annotation": "步兵与骑兵都有待完善，弓兵的数值也尚未验证",
+            "id": "qz_soldier",
+            "name": "青州兵",
+            "type": "infantry",
+            "numercal": {
+                "atk_p": 150,
+                "atk_m": 20,
+                "def_p": 30,
+                "def_m": 50,
+                "hp": 200,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Infantry_default"
+        },
+        {
+            "id": "Infantry_default",
+            "name": "步兵",
+            "type": "infantry",
+            "numercal": {
+                "atk_p": 150,
+                "atk_m": 20,
+                "def_p": 30,
+                "def_m": 50,
+                "hp": 200,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Infantry_Lv1"
+        }
+    ],
+    "archer": [
+        {
+            "id": "light_bow",
+            "name": "轻弓兵",
+            "type": "archer",
+            "numercal": {
+                "atk_p": 150,
+                "atk_m": 20,
+                "def_p": 30,
+                "def_m": 50,
+                "hp": 200,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Archer_default"
+        },
+        {
+            "id": "heavy_bow",
+            "name": "重弓兵",
+            "type": "archer",
+            "numercal": {
+                "atk_p": 120,
+                "atk_m": 20,
+                "def_p": 60,
+                "def_m": 50,
+                "hp": 250,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Archer_default"
+        },
+        {
+            "id": "wx_soldier",
+            "name": "五溪蛮兵",
+            "type": "archer",
+            "numercal": {
+                "atk_p": 130,
+                "atk_m": 20,
+                "def_p": 50,
+                "def_m": 50,
+                "hp": 200,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Archer_default"
+        },
+        {
+            "id": "wd_soldier",
+            "name": "无当飞军",
+            "type": "archer",
+            "numercal": {
+                "atk_p": 20,
+                "atk_m": 120,
+                "def_p": 40,
+                "def_m": 70,
+                "hp": 200,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Archer_default"
+        },
+        {
+            "id": "Archer_default",
+            "name": "弓兵",
+            "type": "archer",
+            "numercal": {
+                "atk_p": 120,
+                "atk_m": 20,
+                "def_p": 60,
+                "def_m": 50,
+                "hp": 250,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Archer_Lv1"
+        }
+    ],
+    "cavalry": [
+        {
+            "id": "qz_soldier",
+            "name": "武卫骑",
+            "type": "cavalry",
+            "numercal": {
+                "atk_p": 150,
+                "atk_m": 20,
+                "def_p": 30,
+                "def_m": 50,
+                "hp": 200,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Cavalry_default"
+        },
+        {
+            "id": "Cavalry_default",
+            "name": "骑兵",
+            "type": "cavalry",
+            "numercal": {
+                "atk_p": 150,
+                "atk_m": 20,
+                "def_p": 30,
+                "def_m": 50,
+                "hp": 200,
+                "hit": 150000,
+                "critical": 0.3,
+                "block": 0,
+                "dodge": 0.1
+            },
+            "prefab": "Cavalry_Lv1"
+        }
+    ]
+}
